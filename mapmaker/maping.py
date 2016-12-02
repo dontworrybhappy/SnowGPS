@@ -69,7 +69,7 @@ if __name__ == "__main__":
             elif event.type == pygame.MOUSEBUTTONDOWN:
                 mx, my = event.pos
                 if event.button == 1:
-                    vertices.append((words, mx, my, index))
+                    vertices.append((words, mx, my, index+1))
                 elif event.button == 3:
                     if closest and second_closest:
                         if closest != second_closest:
