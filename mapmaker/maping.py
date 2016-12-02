@@ -70,6 +70,7 @@ if __name__ == "__main__":
                 mx, my = event.pos
                 if event.button == 1:
                     vertices.append((words, mx, my, index))
+                    index+=1 #because Jeff said so
                 elif event.button == 3:
                     if closest and second_closest:
                         if closest != second_closest:
