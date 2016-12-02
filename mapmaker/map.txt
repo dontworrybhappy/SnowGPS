@@ -1,1013 +1,1013 @@
 VERTICES
-stanford:	546, 159
-stanford:	556, 184
-stanford:	534, 184
-stanford:	545, 184
-keenan:	549, 195
-keenan:	555, 214
-keenan:	548, 214
-keenan:	523, 216
-nquad:	559, 194
-nquad:	587, 193
-nquad:	588, 173
-nquad:	560, 169
-nquad:	560, 181
-nquad:	573, 206
-nquad:	559, 221
-nquad:	587, 223
-nquad:	558, 263
-nquad:	588, 265
-nquad:	573, 282
-nquad:	559, 305
-nquad:	590, 303
-nquad:	517, 223
-nquad:	590, 277
-squad:	280, 445
-squad:	290, 414
-squad:	265, 419
-squad:	263, 430
-squad:	266, 445
-squad:	328, 414
-squad:	311, 404
-squad:	301, 392
-squad:	316, 390
-squad:	318, 396
-squad:	300, 398
-squad:	291, 391
-squad:	328, 391
-squad:	308, 381
-squad:	355, 444
-squad:	330, 444
-squad:	354, 417
-squad:	376, 419
-squad:	377, 446
-squad:	418, 429
-squad:	424, 416
-squad:	404, 444
-squad:	403, 434
-squad:	405, 420
-squad:	407, 406
-squad:	418, 446
-squad:	457, 442
-squad:	456, 416
-squad:	472, 433
-squad:	486, 446
-squad:	484, 422
-squad:	471, 411
-squad:	511, 433
-squad:	530, 444
-squad:	530, 417
-squad:	512, 446
-squad:	510, 416
-squad:	551, 417
-squad:	568, 444
-squad:	568, 421
-path:	471, 398
-path:	456, 398
-path:	481, 401
-path:	431, 395
-path:	509, 395
-path:	429, 381
-path:	451, 381
-path:	487, 383
-path:	508, 374
-path:	447, 354
-path:	428, 366
-path:	497, 352
-path:	466, 354
-path:	478, 354
-path:	468, 391
-path:	477, 389
-path:	474, 341
-path:	466, 341
-path:	467, 333
-path:	476, 333
-path:	449, 333
-path:	492, 331
-path:	510, 354
-path:	505, 338
-path:	437, 338
-path:	431, 351
-path:	419, 353
-path:	428, 361
-path:	507, 331
-path:	450, 312
-path:	434, 328
-path:	435, 312
-path:	487, 311
-path:	471, 311
-path:	471, 325
-path:	470, 293
-path:	503, 313
-path:	522, 318
-path:	481, 287
-path:	454, 287
-path:	492, 291
-path:	532, 356
-path:	526, 340
-path:	550, 384
-path:	548, 343
-path:	546, 317
-path:	613, 328
-path:	549, 329
-path:	518, 296
-path:	522, 280
-path:	506, 272
-path:	525, 272
-path:	488, 275
-path:	519, 253
-path:	499, 253
-path:	352, 392
-path:	356, 354
-path:	374, 351
-path:	404, 352
-path:	374, 380
-path:	354, 375
-path:	375, 366
-path:	374, 367
-path:	395, 370
-path:	392, 384
-path:	406, 383
-path:	408, 369
-path:	357, 323
-path:	373, 323
-path:	392, 331
-path:	410, 336
-path:	397, 310
-path:	412, 322
-path:	275, 248
-path:	283, 266
-path:	273, 250
-path:	273, 250
-path:	470, 460
-path:	53, 25
-quadbymaincircle:	455, 447
-quadbymaincircle:	456, 471
-quadbymaincircle:	455, 478
-quadbymaincircle:	461, 478
-quadbymaincircle:	475, 476
-quadbymaincircle:	474, 475
-quadbymaincircle:	483, 470
-quadbymaincircle:	484, 479
-maincircle:	494, 479
-maincircle:	483, 489
-maincircle:	491, 479
-maincircle:	493, 491
-maincircle:	514, 491
-maincircle:	514, 504
-maincircle:	495, 504
-maincircle:	484, 507
-path:	529, 499
-path:	529, 506
-stinsonquad:	515, 500
-stinsonquad:	530, 716
-stinsonquad:	529, 530
-stinsonquad:	530, 546
-stinsonquad:	529, 559
-stinsonquad:	530, 569
-stinsonquad:	530, 580
-stinsonquad:	529, 588
-stinsonquad:	528, 624
-stinsonquad:	530, 668
-stinsonquad:	558, 624
-stinsonquad:	557, 593
-stinsonquad:	557, 579
-stinsonquad:	557, 551
-stinsonquad:	556, 536
-stinsonquad:	557, 506
-stinsonquad:	542, 523
-stinsonquad:	543, 566
-stinsonquad:	543, 607
-stinsonquad:	543, 640
-stinsonquad:	544, 660
-stinsonquad:	557, 667
-stinsonquad:	558, 714
-stinsonquad:	531, 537
-stinsonquad:	555, 594
-stinsonquad:	559, 591
-stinsonquad:	570, 591
-stinsonquad:	567, 578
-stinsonquad:	558, 643
-stinsonquad:	544, 660
-stinsonquad:	529, 638
-path:	542, 690
-stinsonquad:	568, 504
-stinsonquad:	586, 504
-stinsonquad:	568, 496
-stinsonquad:	585, 497
-stinsonquad:	569, 484
-stinsonquad:	587, 485
-stinsonquad:	554, 498
-stinsonquad:	567, 468
-stinsonquad:	586, 468
-stinsonquad:	585, 448
-stinsonquad:	577, 456
-stinsonquad:	587, 419
-stinsonquad:	577, 431
-stinsonquad:	576, 416
-stinsonquad:	577, 404
-stinsonquad:	613, 382
-aroundhes:	612, 364
-aroundhes:	654, 338
-aroundhes:	639, 338
-aroundhes:	619, 305
-aroundhes:	625, 318
-aroundhes:	619, 322
-aroundhes:	651, 322
-aroundhes:	653, 304
-aroundhes:	636, 312
-aroundhes:	618, 339
-aroundhes:	627, 323
-aroundhes:	632, 334
-aroundhes:	658, 366
-aroundhes:	675, 366
-aroundhes:	676, 389
-aroundhes:	618, 388
-aroundhes:	676, 424
-aroundhes:	666, 421
-aroundhes:	676, 455
-aroundhes:	660, 439
-aroundhes:	676, 341
-aroundhes:	689, 340
-aroundhes:	718, 339
-aroundhes:	689, 366
-aroundhes:	717, 365
-aroundhes:	690, 387
-aroundhes:	687, 422
-path:	690, 456
-path:	701, 454
-path:	652, 283
-path:	683, 252
-path:	708, 280
-modquad:	655, 250
-modquad:	705, 248
-modquad:	682, 235
-modquad:	643, 236
-modquad:	681, 213
-modquad:	682, 188
-modquad:	682, 176
-modquad:	671, 174
-modquad:	663, 186
-modquad:	693, 185
-modquad:	691, 172
-modquad:	681, 137
-modquad:	710, 184
-modquad:	707, 200
-modquad:	654, 218
-modquad:	679, 218
-modquad:	650, 221
-modquad:	710, 214
-modquad:	675, 170
-snitestadium:	607, 486
-snitestadium:	607, 501
-debart:	567, 516
-debart:	573, 507
-stadium:	587, 583
-stadium:	589, 592
-stadium:	598, 580
-stadium:	602, 591
-path:	600, 560
-path:	604, 553
-path:	593, 553
-path:	604, 538
-path:	594, 538
-path:	608, 520
-southofsouth:	456, 491
-southofsouth:	432, 489
-southofsouth:	419, 490
-southofsouth:	406, 490
-southofsouth:	375, 492
-southofsouth:	350, 492
-southofsouth:	325, 493
-southofsouth:	311, 493
-southofsouth:	298, 481
-southofsouth:	311, 479
-southofsouth:	267, 490
-southofsouth:	269, 514
-southofsouth:	278, 531
-southofsouth:	299, 517
-southofsouth:	329, 513
-southofsouth:	305, 529
-southofsouth:	327, 521
-southofsouth:	334, 517
-southofsouth:	334, 545
-southofsouth:	346, 536
-southofsouth:	368, 518
-southofsouth:	378, 506
-southofsouth:	387, 516
-southofsouth:	399, 521
-southofsouth:	404, 534
-southofsouth:	350, 562
-southofsouth:	350, 576
-southofsouth:	366, 563
-southofsouth:	371, 537
-southofsouth:	382, 551
-southofsouth:	383, 571
-southofsouth:	391, 576
-southofsouth:	394, 560
-southofsouth:	406, 545
-southofsouth:	410, 557
-southofsouth:	418, 544
-southofsouth:	417, 554
-southofsouth:	425, 570
-southofsouth:	420, 579
-southofsouth:	328, 580
-southofsouth:	297, 583
-southofsouth:	285, 582
-southofsouth:	303, 563
-southofsouth:	239, 583
-southofsouth:	429, 613
-southofsouth:	430, 625
-path:	383, 560
-path:	413, 571
-path:	408, 507
-path:	428, 508
-path:	452, 505
-hesscienceetc:	720, 386
-hesscienceetc:	700, 423
-hesscienceetc:	699, 420
-path:	185, 355
-path:	617, 275
-path:	617, 222
-path:	617, 262
-path:	632, 224
-northquad:	443, 266
-northquad:	449, 253
-northquad:	458, 250
-northquad:	471, 244
-northquad:	481, 247
-northquad:	468, 213
-northquad:	470, 200
-northquad:	458, 199
-northquad:	456, 188
-northquad:	471, 189
-northquad:	488, 198
-northquad:	493, 198
-northquad:	494, 211
-northquad:	492, 221
-northquad:	502, 221
-northquad:	494, 176
-northquad:	506, 198
-northquad:	513, 211
-carrol:	88, 293
-carrol:	84, 328
-carrol:	144, 334
-carrol:	131, 294
-carrol:	213, 368
-carrol:	258, 361
-carrol:	286, 349
-carrol:	358, 297
-carrol:	369, 238
-carrol:	314, 357
-carrol:	286, 372
-carrol:	294, 355
-carrol:	328, 380
-carrol:	258, 382
-carrol:	256, 408
-carrol:	218, 379
-carrol:	218, 392
-carrol:	226, 398
-carrol:	251, 414
-carrol:	218, 416
-carrol:	218, 444
-carrol:	249, 478
-carrol:	248, 476
-carrol:	273, 458
-bookstore:	430, 586
-bookstore:	430, 650
-bookstore:	392, 621
-bookstore:	384, 663
-bookstore:	384, 663
-bookstore:	395, 657
-bookstore:	387, 668
-path:	416, 657
-path:	429, 657
-path:	418, 667
-path:	428, 666
-path:	463, 666
-path:	464, 643
-path:	452, 644
-path:	463, 626
-path:	445, 623
-stadium:	701, 388
+stanford 546 159 0
+stanford 556 184 1
+stanford 534 184 2
+stanford 545 184 3
+keenan 549 195 4
+keenan 555 214 5
+keenan 548 214 6
+keenan 523 216 7
+nquad 559 194 8
+nquad 587 193 9
+nquad 588 173 10
+nquad 560 169 11
+nquad 560 181 12
+nquad 573 206 13
+nquad 559 221 14
+nquad 587 223 15
+nquad 558 263 16
+nquad 588 265 17
+nquad 573 282 18
+nquad 559 305 19
+nquad 590 303 20
+nquad 517 223 21
+nquad 590 277 22
+squad 280 445 23
+squad 290 414 24
+squad 265 419 25
+squad 263 430 26
+squad 266 445 27
+squad 328 414 28
+squad 311 404 29
+squad 301 392 30
+squad 316 390 31
+squad 318 396 32
+squad 300 398 33
+squad 291 391 34
+squad 328 391 35
+squad 308 381 36
+squad 355 444 37
+squad 330 444 38
+squad 354 417 39
+squad 376 419 40
+squad 377 446 41
+squad 418 429 42
+squad 424 416 43
+squad 404 444 44
+squad 403 434 45
+squad 405 420 46
+squad 407 406 47
+squad 418 446 48
+squad 457 442 49
+squad 456 416 50
+squad 472 433 51
+squad 486 446 52
+squad 484 422 53
+squad 471 411 54
+squad 511 433 55
+squad 530 444 56
+squad 530 417 57
+squad 512 446 58
+squad 510 416 59
+squad 551 417 60
+squad 568 444 61
+squad 568 421 62
+path 471 398 63
+path 456 398 64
+path 481 401 65
+path 431 395 66
+path 509 395 67
+path 429 381 68
+path 451 381 69
+path 487 383 70
+path 508 374 71
+path 447 354 72
+path 428 366 73
+path 497 352 74
+path 466 354 75
+path 478 354 76
+path 468 391 77
+path 477 389 78
+path 474 341 79
+path 466 341 80
+path 467 333 81
+path 476 333 82
+path 449 333 83
+path 492 331 84
+path 510 354 85
+path 505 338 86
+path 437 338 87
+path 431 351 88
+path 419 353 89
+path 428 361 90
+path 507 331 91
+path 450 312 92
+path 434 328 93
+path 435 312 94
+path 487 311 95
+path 471 311 96
+path 471 325 97
+path 470 293 98
+path 503 313 99
+path 522 318 100
+path 481 287 101
+path 454 287 102
+path 492 291 103
+path 532 356 104
+path 526 340 105
+path 550 384 106
+path 548 343 107
+path 546 317 108
+path 613 328 109
+path 549 329 110
+path 518 296 111
+path 522 280 112
+path 506 272 113
+path 525 272 114
+path 488 275 115
+path 519 253 116
+path 499 253 117
+path 352 392 118
+path 356 354 119
+path 374 351 120
+path 404 352 121
+path 374 380 122
+path 354 375 123
+path 375 366 124
+path 374 367 125
+path 395 370 126
+path 392 384 127
+path 406 383 128
+path 408 369 129
+path 357 323 130
+path 373 323 131
+path 392 331 132
+path 410 336 133
+path 397 310 134
+path 412 322 135
+path 275 248 136
+path 283 266 137
+path 273 250 138
+path 273 250 139
+path 470 460 140
+path 53 25 141
+quadbymaincircle 455 447 142
+quadbymaincircle 456 471 143
+quadbymaincircle 455 478 144
+quadbymaincircle 461 478 145
+quadbymaincircle 475 476 146
+quadbymaincircle 474 475 147
+quadbymaincircle 483 470 148
+quadbymaincircle 484 479 149
+maincircle 494 479 150
+maincircle 483 489 151
+maincircle 491 479 152
+maincircle 493 491 153
+maincircle 514 491 154
+maincircle 514 504 155
+maincircle 495 504 156
+maincircle 484 507 157
+path 529 499 158
+path 529 506 159
+stinsonquad 515 500 160
+stinsonquad 530 716 161
+stinsonquad 529 530 162
+stinsonquad 530 546 163
+stinsonquad 529 559 164
+stinsonquad 530 569 165
+stinsonquad 530 580 166
+stinsonquad 529 588 167
+stinsonquad 528 624 168
+stinsonquad 530 668 169
+stinsonquad 558 624 170
+stinsonquad 557 593 171
+stinsonquad 557 579 172
+stinsonquad 557 551 173
+stinsonquad 556 536 174
+stinsonquad 557 506 175
+stinsonquad 542 523 176
+stinsonquad 543 566 177
+stinsonquad 543 607 178
+stinsonquad 543 640 179
+stinsonquad 544 660 180
+stinsonquad 557 667 181
+stinsonquad 558 714 182
+stinsonquad 531 537 183
+stinsonquad 555 594 184
+stinsonquad 559 591 185
+stinsonquad 570 591 186
+stinsonquad 567 578 187
+stinsonquad 558 643 188
+stinsonquad 544 660 189
+stinsonquad 529 638 190
+path 542 690 191
+stinsonquad 568 504 192
+stinsonquad 586 504 193
+stinsonquad 568 496 194
+stinsonquad 585 497 195
+stinsonquad 569 484 196
+stinsonquad 587 485 197
+stinsonquad 554 498 198
+stinsonquad 567 468 199
+stinsonquad 586 468 200
+stinsonquad 585 448 201
+stinsonquad 577 456 202
+stinsonquad 587 419 203
+stinsonquad 577 431 204
+stinsonquad 576 416 205
+stinsonquad 577 404 206
+stinsonquad 613 382 207
+aroundhes 612 364 208
+aroundhes 654 338 209
+aroundhes 639 338 210
+aroundhes 619 305 211
+aroundhes 625 318 212
+aroundhes 619 322 213
+aroundhes 651 322 214
+aroundhes 653 304 215
+aroundhes 636 312 216
+aroundhes 618 339 217
+aroundhes 627 323 218
+aroundhes 632 334 219
+aroundhes 658 366 220
+aroundhes 675 366 221
+aroundhes 676 389 222
+aroundhes 618 388 223
+aroundhes 676 424 224
+aroundhes 666 421 225
+aroundhes 676 455 226
+aroundhes 660 439 227
+aroundhes 676 341 228
+aroundhes 689 340 229
+aroundhes 718 339 230
+aroundhes 689 366 231
+aroundhes 717 365 232
+aroundhes 690 387 233
+aroundhes 687 422 234
+path 690 456 235
+path 701 454 236
+path 652 283 237
+path 683 252 238
+path 708 280 239
+modquad 655 250 240
+modquad 705 248 241
+modquad 682 235 242
+modquad 643 236 243
+modquad 681 213 244
+modquad 682 188 245
+modquad 682 176 246
+modquad 671 174 247
+modquad 663 186 248
+modquad 693 185 249
+modquad 691 172 250
+modquad 681 137 251
+modquad 710 184 252
+modquad 707 200 253
+modquad 654 218 254
+modquad 679 218 255
+modquad 650 221 256
+modquad 710 214 257
+modquad 675 170 258
+snitestadium 607 486 259
+snitestadium 607 501 260
+debart 567 516 261
+debart 573 507 262
+stadium 587 583 263
+stadium 589 592 264
+stadium 598 580 265
+stadium 602 591 266
+path 600 560 267
+path 604 553 268
+path 593 553 269
+path 604 538 270
+path 594 538 271
+path 608 520 272
+southofsouth 456 491 273
+southofsouth 432 489 274
+southofsouth 419 490 275
+southofsouth 406 490 276
+southofsouth 375 492 277
+southofsouth 350 492 278
+southofsouth 325 493 279
+southofsouth 311 493 280
+southofsouth 298 481 281
+southofsouth 311 479 282
+southofsouth 267 490 283
+southofsouth 269 514 284
+southofsouth 278 531 285
+southofsouth 299 517 286
+southofsouth 329 513 287
+southofsouth 305 529 288
+southofsouth 327 521 289
+southofsouth 334 517 290
+southofsouth 334 545 291
+southofsouth 346 536 292
+southofsouth 368 518 293
+southofsouth 378 506 294
+southofsouth 387 516 295
+southofsouth 399 521 296
+southofsouth 404 534 297
+southofsouth 350 562 298
+southofsouth 350 576 299
+southofsouth 366 563 300
+southofsouth 371 537 301
+southofsouth 382 551 302
+southofsouth 383 571 303
+southofsouth 391 576 304
+southofsouth 394 560 305
+southofsouth 406 545 306
+southofsouth 410 557 307
+southofsouth 418 544 308
+southofsouth 417 554 309
+southofsouth 425 570 310
+southofsouth 420 579 311
+southofsouth 328 580 312
+southofsouth 297 583 313
+southofsouth 285 582 314
+southofsouth 303 563 315
+southofsouth 239 583 316
+southofsouth 429 613 317
+southofsouth 430 625 318
+path 383 560 319
+path 413 571 320
+path 408 507 321
+path 428 508 322
+path 452 505 323
+hesscienceetc 720 386 324
+hesscienceetc 700 423 325
+hesscienceetc 699 420 326
+path 185 355 327
+path 617 275 328
+path 617 222 329
+path 617 262 330
+path 632 224 331
+northquad 443 266 332
+northquad 449 253 333
+northquad 458 250 334
+northquad 471 244 335
+northquad 481 247 336
+northquad 468 213 337
+northquad 470 200 338
+northquad 458 199 339
+northquad 456 188 340
+northquad 471 189 341
+northquad 488 198 342
+northquad 493 198 343
+northquad 494 211 344
+northquad 492 221 345
+northquad 502 221 346
+northquad 494 176 347
+northquad 506 198 348
+northquad 513 211 349
+carrol 88 293 350
+carrol 84 328 351
+carrol 144 334 352
+carrol 131 294 353
+carrol 213 368 354
+carrol 258 361 355
+carrol 286 349 356
+carrol 358 297 357
+carrol 369 238 358
+carrol 314 357 359
+carrol 286 372 360
+carrol 294 355 361
+carrol 328 380 362
+carrol 258 382 363
+carrol 256 408 364
+carrol 218 379 365
+carrol 218 392 366
+carrol 226 398 367
+carrol 251 414 368
+carrol 218 416 369
+carrol 218 444 370
+carrol 249 478 371
+carrol 248 476 372
+carrol 273 458 373
+bookstore 430 586 374
+bookstore 430 650 375
+bookstore 392 621 376
+bookstore 384 663 377
+bookstore 384 663 378
+bookstore 395 657 379
+bookstore 387 668 380
+path 416 657 381
+path 429 657 382
+path 418 667 383
+path 428 666 384
+path 463 666 385
+path 464 643 386
+path 452 644 387
+path 463 626 388
+path 445 623 389
+stadium 701 388 390
 EDGES
-stanford:	545, 184, 546, 159
-stanford:	556, 184, 545, 184
-stanford:	545, 184, 534, 184
-keenan:	548, 214, 523, 216
-keenan:	548, 214, 549, 195
-keenan:	548, 214, 555, 214
-keenan:	545, 184, 549, 195
-nquad:	587, 223, 559, 221
-nquad:	587, 223, 558, 263
-nquad:	558, 263, 559, 221
-nquad:	588, 265, 587, 223
-nquad:	558, 263, 588, 265
-nquad:	573, 282, 558, 263
-nquad:	588, 265, 573, 282
-nquad:	590, 303, 573, 282
-nquad:	559, 305, 590, 303
-nquad:	573, 282, 559, 305
-nquad:	558, 263, 559, 305
-nquad:	573, 206, 587, 223
-nquad:	573, 206, 559, 221
-nquad:	559, 194, 573, 206
-nquad:	587, 193, 573, 206
-nquad:	588, 173, 587, 193
-nquad:	560, 181, 588, 173
-nquad:	559, 194, 560, 181
-nquad:	560, 169, 560, 181
-nquad:	546, 159, 560, 169
-nquad:	556, 184, 560, 181
-nquad:	549, 195, 559, 194
-nquad:	555, 214, 559, 221
-nquad:	559, 194, 587, 193
-nquad:	588, 173, 560, 169
-nquad:	559, 194, 559, 221
-nquad:	587, 193, 587, 223
-nquad:	588, 265, 590, 303
-nquad:	523, 216, 517, 223
-nquad:	559, 221, 517, 223
-nquad:	588, 265, 590, 277
-nquad:	590, 303, 590, 277
-squad:	266, 445, 263, 430
-squad:	280, 445, 266, 445
-squad:	290, 414, 280, 445
-squad:	263, 430, 290, 414
-squad:	263, 430, 265, 419
-squad:	290, 414, 265, 419
-squad:	328, 414, 290, 414
-squad:	328, 414, 280, 445
-squad:	301, 392, 290, 414
-squad:	311, 404, 290, 414
-squad:	291, 391, 290, 414
-squad:	301, 392, 291, 391
-squad:	300, 398, 301, 392
-squad:	311, 404, 300, 398
-squad:	318, 396, 311, 404
-squad:	328, 391, 318, 396
-squad:	316, 390, 328, 391
-squad:	318, 396, 316, 390
-squad:	328, 414, 318, 396
-squad:	311, 404, 328, 414
-squad:	316, 390, 301, 392
-squad:	308, 381, 301, 392
-squad:	316, 390, 308, 381
-squad:	330, 444, 280, 445
-squad:	355, 444, 330, 444
-squad:	328, 414, 330, 444
-squad:	355, 444, 328, 414
-squad:	354, 417, 328, 414
-squad:	354, 417, 355, 444
-squad:	354, 417, 376, 419
-squad:	376, 419, 355, 444
-squad:	355, 444, 377, 446
-squad:	376, 419, 377, 446
-squad:	377, 446, 418, 429
-squad:	418, 429, 376, 419
-squad:	424, 416, 418, 429
-squad:	376, 419, 424, 416
-squad:	404, 444, 377, 446
-squad:	403, 434, 404, 444
-squad:	418, 429, 403, 434
-squad:	405, 420, 403, 434
-squad:	418, 429, 405, 420
-squad:	424, 416, 405, 420
-squad:	407, 406, 405, 420
-squad:	404, 444, 418, 446
-squad:	418, 429, 418, 446
-squad:	418, 446, 457, 442
-squad:	457, 442, 418, 429
-squad:	456, 416, 457, 442
-squad:	456, 416, 418, 429
-squad:	424, 416, 456, 416
-squad:	472, 433, 457, 442
-squad:	456, 416, 472, 433
-squad:	486, 446, 472, 433
-squad:	457, 442, 486, 446
-squad:	484, 422, 472, 433
-squad:	486, 446, 484, 422
-squad:	471, 411, 456, 416
-squad:	484, 422, 471, 411
-squad:	511, 433, 484, 422
-squad:	486, 446, 511, 433
-squad:	530, 417, 511, 433
-squad:	530, 444, 530, 417
-squad:	511, 433, 530, 444
-squad:	512, 446, 530, 444
-squad:	486, 446, 512, 446
-squad:	510, 416, 484, 422
-squad:	511, 433, 510, 416
-squad:	530, 417, 510, 416
-squad:	551, 417, 530, 417
-squad:	568, 444, 530, 444
-squad:	551, 417, 568, 444
-squad:	551, 417, 568, 421
-squad:	568, 444, 568, 421
-path:	456, 398, 481, 401
-path:	456, 398, 456, 416
-path:	471, 411, 456, 398
-path:	471, 411, 481, 401
-path:	484, 422, 481, 401
-path:	431, 395, 456, 416
-path:	456, 398, 431, 395
-path:	509, 395, 481, 401
-path:	510, 416, 509, 395
-path:	509, 395, 484, 422
-path:	429, 381, 456, 398
-path:	451, 381, 456, 398
-path:	451, 381, 471, 398
-path:	487, 383, 471, 398
-path:	487, 383, 481, 401
-path:	508, 374, 481, 401
-path:	447, 354, 451, 381
-path:	447, 354, 429, 381
-path:	447, 354, 428, 366
-path:	497, 352, 508, 374
-path:	497, 352, 487, 383
-path:	497, 352, 447, 354
-path:	466, 354, 447, 354
-path:	497, 352, 478, 354
-path:	468, 391, 471, 398
-path:	471, 398, 477, 389
-path:	466, 354, 468, 391
-path:	477, 389, 478, 354
-path:	474, 341, 466, 341
-path:	478, 354, 474, 341
-path:	466, 354, 466, 341
-path:	466, 341, 447, 354
-path:	497, 352, 474, 341
-path:	466, 341, 467, 333
-path:	476, 333, 474, 341
-path:	467, 333, 476, 333
-path:	467, 333, 449, 333
-path:	492, 331, 476, 333
-path:	492, 331, 497, 352
-path:	449, 333, 447, 354
-path:	508, 374, 510, 354
-path:	510, 354, 497, 352
-path:	505, 338, 497, 352
-path:	510, 354, 505, 338
-path:	428, 361, 428, 366
-path:	428, 361, 419, 353
-path:	428, 361, 431, 351
-path:	419, 353, 431, 351
-path:	447, 354, 431, 351
-path:	431, 351, 437, 338
-path:	447, 354, 437, 338
-path:	449, 333, 437, 338
-path:	505, 338, 492, 331
-path:	507, 331, 492, 331
-path:	505, 338, 507, 331
-path:	450, 312, 449, 333
-path:	437, 338, 434, 328
-path:	450, 312, 434, 328
-path:	434, 328, 435, 312
-path:	450, 312, 435, 312
-path:	492, 331, 487, 311
-path:	476, 333, 487, 311
-path:	450, 312, 467, 333
-path:	471, 311, 450, 312
-path:	487, 311, 471, 311
-path:	471, 325, 467, 333
-path:	476, 333, 471, 325
-path:	471, 311, 471, 325
-path:	471, 311, 470, 293
-path:	470, 293, 450, 312
-path:	487, 311, 470, 293
-path:	487, 311, 507, 331
-path:	503, 313, 487, 311
-path:	507, 331, 503, 313
-path:	507, 331, 522, 318
-path:	470, 293, 481, 287
-path:	470, 293, 454, 287
-path:	454, 287, 450, 312
-path:	492, 291, 481, 287
-path:	487, 311, 492, 291
-path:	532, 356, 526, 340
-path:	510, 354, 532, 356
-path:	526, 340, 510, 354
-path:	505, 338, 532, 356
-path:	550, 384, 532, 356
-path:	550, 384, 487, 383
-path:	551, 417, 550, 384
-path:	548, 343, 532, 356
-path:	550, 384, 548, 343
-path:	546, 317, 522, 318
-path:	548, 343, 546, 317
-path:	559, 305, 546, 317
-path:	590, 303, 613, 328
-path:	548, 343, 549, 329
-path:	546, 317, 549, 329
-path:	613, 328, 549, 329
-path:	518, 296, 503, 313
-path:	522, 318, 518, 296
-path:	559, 305, 518, 296
-path:	522, 280, 518, 296
-path:	518, 296, 506, 272
-path:	506, 272, 525, 272
-path:	522, 280, 525, 272
-path:	506, 272, 492, 291
-path:	481, 287, 488, 275
-path:	506, 272, 488, 275
-path:	492, 291, 488, 275
-path:	506, 272, 499, 253
-path:	525, 272, 499, 253
-path:	519, 253, 506, 272
-path:	525, 272, 519, 253
-path:	499, 253, 519, 253
-path:	354, 417, 352, 392
-path:	356, 354, 352, 392
-path:	419, 353, 404, 352
-path:	374, 351, 404, 352
-path:	374, 351, 356, 354
-path:	352, 392, 354, 375
-path:	356, 354, 354, 375
-path:	374, 380, 354, 375
-path:	356, 354, 374, 380
-path:	374, 351, 354, 375
-path:	375, 366, 374, 380
-path:	374, 351, 375, 366
-path:	375, 366, 374, 367
-path:	395, 370, 375, 366
-path:	419, 353, 395, 370
-path:	374, 351, 395, 370
-path:	374, 380, 395, 370
-path:	406, 383, 392, 384
-path:	395, 370, 406, 383
-path:	374, 380, 392, 384
-path:	395, 370, 408, 369
-path:	408, 369, 406, 383
-path:	404, 352, 408, 369
-path:	356, 354, 373, 323
-path:	357, 323, 356, 354
-path:	373, 323, 357, 323
-path:	374, 351, 373, 323
-path:	357, 323, 374, 351
-path:	392, 331, 374, 351
-path:	373, 323, 392, 331
-path:	410, 336, 419, 353
-path:	410, 336, 404, 352
-path:	392, 331, 410, 336
-path:	410, 336, 412, 322
-path:	412, 322, 392, 331
-path:	397, 310, 392, 331
-path:	373, 323, 397, 310
-path:	435, 312, 397, 310
-path:	435, 312, 412, 322
-path:	275, 248, 273, 250
-path:	470, 460, 486, 446
-quadbymaincircle:	470, 460, 455, 447
-quadbymaincircle:	457, 442, 455, 447
-quadbymaincircle:	456, 471, 455, 447
-quadbymaincircle:	456, 471, 470, 460
-quadbymaincircle:	461, 478, 456, 471
-quadbymaincircle:	456, 471, 455, 478
-quadbymaincircle:	461, 478, 475, 476
-quadbymaincircle:	483, 470, 475, 476
-quadbymaincircle:	483, 470, 470, 460
-quadbymaincircle:	483, 470, 486, 446
-quadbymaincircle:	474, 475, 484, 479
-quadbymaincircle:	484, 479, 483, 470
-maincircle:	484, 479, 494, 479
-maincircle:	483, 489, 484, 479
-maincircle:	483, 489, 494, 479
-maincircle:	493, 491, 483, 489
-maincircle:	493, 491, 494, 479
-maincircle:	495, 504, 483, 489
-maincircle:	493, 491, 495, 504
-maincircle:	484, 507, 483, 489
-path:	514, 504, 495, 504
-path:	495, 504, 484, 507
-path:	514, 504, 514, 491
-stinsonquad:	529, 506, 514, 504
-stinsonquad:	515, 500, 529, 499
-stinsonquad:	529, 499, 529, 506
-stinsonquad:	529, 506, 529, 530
-stinsonquad:	529, 530, 530, 546
-stinsonquad:	530, 546, 529, 559
-stinsonquad:	529, 559, 530, 569
-stinsonquad:	530, 569, 530, 580
-stinsonquad:	530, 580, 529, 588
-stinsonquad:	529, 588, 528, 624
-stinsonquad:	528, 624, 530, 668
-stinsonquad:	542, 523, 529, 506
-stinsonquad:	542, 523, 557, 506
-stinsonquad:	542, 523, 531, 537
-stinsonquad:	556, 536, 542, 523
-stinsonquad:	556, 536, 530, 546
-stinsonquad:	530, 546, 557, 551
-stinsonquad:	557, 551, 543, 566
-stinsonquad:	543, 566, 530, 546
-stinsonquad:	543, 566, 557, 579
-stinsonquad:	543, 566, 530, 580
-stinsonquad:	557, 579, 530, 580
-stinsonquad:	557, 593, 529, 588
-stinsonquad:	543, 607, 529, 588
-stinsonquad:	543, 607, 528, 624
-stinsonquad:	543, 607, 557, 593
-stinsonquad:	543, 607, 558, 624
-stinsonquad:	558, 624, 528, 624
-stinsonquad:	558, 624, 557, 593
-stinsonquad:	557, 579, 555, 594
-stinsonquad:	557, 579, 559, 591
-stinsonquad:	570, 591, 557, 579
-stinsonquad:	559, 591, 567, 578
-stinsonquad:	558, 624, 557, 667
-stinsonquad:	543, 640, 528, 624
-stinsonquad:	543, 640, 530, 668
-stinsonquad:	558, 624, 543, 640
-stinsonquad:	557, 667, 543, 640
-stinsonquad:	558, 643, 544, 660
-stinsonquad:	544, 660, 529, 638
-stinsonquad:	544, 660, 530, 668
-path:	530, 668, 542, 690
-path:	542, 690, 530, 716
-path:	557, 667, 542, 690
-path:	557, 667, 558, 714
-path:	530, 668, 530, 716
-path:	558, 714, 530, 716
-path:	558, 714, 542, 690
-stinsonquad:	556, 536, 557, 506
-stinsonquad:	556, 536, 557, 551
-stinsonquad:	557, 551, 557, 579
-stinsonquad:	557, 667, 530, 668
-stinsonquad:	568, 504, 557, 506
-stinsonquad:	568, 496, 554, 498
-stinsonquad:	587, 485, 585, 497
-stinsonquad:	586, 504, 568, 504
-stinsonquad:	585, 497, 568, 496
-stinsonquad:	577, 404, 576, 416
-stinsonquad:	576, 416, 568, 421
-stinsonquad:	576, 416, 587, 419
-stinsonquad:	613, 382, 587, 419
-stinsonquad:	587, 419, 585, 448
-stinsonquad:	577, 431, 585, 448
-stinsonquad:	577, 431, 568, 444
-stinsonquad:	577, 431, 587, 419
-stinsonquad:	568, 421, 577, 431
-stinsonquad:	585, 448, 568, 444
-stinsonquad:	577, 456, 568, 444
-stinsonquad:	577, 456, 567, 468
-aroundhes:	613, 328, 613, 382
-aroundhes:	654, 338, 612, 364
-aroundhes:	612, 364, 613, 382
-aroundhes:	618, 339, 612, 364
-aroundhes:	619, 322, 618, 339
-aroundhes:	619, 322, 613, 328
-aroundhes:	619, 322, 625, 318
-aroundhes:	625, 318, 636, 312
-aroundhes:	636, 312, 653, 304
-aroundhes:	619, 322, 619, 305
-aroundhes:	653, 304, 619, 305
-aroundhes:	653, 304, 651, 322
-aroundhes:	653, 304, 636, 312
-aroundhes:	636, 312, 651, 322
-aroundhes:	636, 312, 619, 305
-aroundhes:	619, 305, 625, 318
-aroundhes:	639, 338, 625, 318
-aroundhes:	651, 322, 627, 323
-aroundhes:	627, 323, 619, 322
-aroundhes:	639, 338, 619, 322
-aroundhes:	651, 322, 639, 338
-aroundhes:	639, 338, 618, 339
-aroundhes:	654, 338, 639, 338
-aroundhes:	658, 366, 639, 338
-aroundhes:	658, 366, 612, 364
-aroundhes:	675, 366, 658, 366
-aroundhes:	676, 389, 658, 366
-aroundhes:	676, 389, 675, 366
-aroundhes:	618, 388, 613, 382
-aroundhes:	618, 388, 676, 389
-aroundhes:	676, 424, 676, 389
-aroundhes:	676, 424, 666, 421
-aroundhes:	676, 455, 676, 424
-aroundhes:	666, 421, 660, 439
-aroundhes:	676, 455, 660, 439
-aroundhes:	654, 338, 676, 341
-aroundhes:	689, 340, 676, 341
-aroundhes:	689, 340, 718, 339
-aroundhes:	675, 366, 689, 366
-aroundhes:	675, 366, 676, 341
-aroundhes:	689, 340, 689, 366
-aroundhes:	717, 365, 689, 366
-aroundhes:	718, 339, 717, 365
-aroundhes:	690, 387, 676, 389
-aroundhes:	690, 387, 689, 366
-aroundhes:	687, 422, 676, 424
-path:	690, 387, 687, 422
-path:	687, 422, 676, 389
-path:	690, 456, 676, 455
-path:	690, 456, 687, 422
-path:	701, 454, 687, 422
-path:	701, 454, 690, 456
-path:	653, 304, 652, 283
-path:	683, 252, 652, 283
-path:	652, 283, 683, 252
-aroundhes:	708, 280, 683, 252
-modquad:	708, 280, 652, 283
-modquad:	683, 252, 655, 250
-modquad:	655, 250, 652, 283
-modquad:	705, 248, 683, 252
-modquad:	705, 248, 708, 280
-modquad:	683, 252, 682, 235
-modquad:	682, 235, 643, 236
-modquad:	682, 235, 681, 213
-modquad:	681, 213, 663, 186
-modquad:	663, 186, 654, 218
-modquad:	654, 218, 679, 218
-modquad:	679, 218, 681, 213
-modquad:	710, 214, 681, 213
-modquad:	710, 214, 707, 200
-modquad:	663, 186, 682, 188
-modquad:	682, 176, 671, 174
-modquad:	691, 172, 682, 176
-modquad:	682, 188, 682, 176
-modquad:	693, 185, 682, 188
-modquad:	710, 184, 693, 185
-modquad:	707, 200, 693, 185
-modquad:	693, 185, 681, 213
-modquad:	682, 188, 681, 213
-modquad:	681, 137, 682, 176
-snitestadium:	607, 501, 607, 486
-snitestadium:	607, 501, 676, 455
-snitestadium:	607, 501, 586, 504
-snitestadium:	607, 501, 585, 497
-snitestadium:	567, 578, 570, 591
-debart:	567, 578, 568, 504
-debart:	567, 578, 567, 516
-stadium:	567, 578, 587, 583
-stadium:	602, 591, 570, 591
-stadium:	587, 583, 589, 592
-path:	598, 580, 587, 583
-path:	598, 580, 589, 592
-path:	587, 583, 602, 591
-path:	598, 580, 602, 591
-path:	600, 560, 598, 580
-path:	600, 560, 593, 553
-path:	600, 560, 604, 553
-path:	604, 553, 593, 553
-path:	604, 538, 604, 553
-path:	604, 538, 594, 538
-path:	608, 520, 604, 538
-path:	607, 501, 608, 520
-southofsouth:	311, 493, 298, 481
-southofsouth:	311, 493, 311, 479
-southofsouth:	311, 479, 298, 481
-southofsouth:	325, 493, 311, 493
-southofsouth:	350, 492, 325, 493
-southofsouth:	350, 492, 375, 492
-southofsouth:	375, 492, 406, 490
-southofsouth:	406, 490, 419, 490
-southofsouth:	419, 490, 432, 489
-southofsouth:	456, 491, 432, 489
-southofsouth:	455, 478, 456, 491
-southofsouth:	311, 493, 267, 490
-southofsouth:	269, 514, 267, 490
-southofsouth:	269, 514, 299, 517
-southofsouth:	278, 531, 269, 514
-southofsouth:	305, 529, 299, 517
-southofsouth:	305, 529, 278, 531
-southofsouth:	329, 513, 299, 517
-southofsouth:	329, 513, 325, 493
-southofsouth:	329, 513, 327, 521
-southofsouth:	327, 521, 334, 517
-southofsouth:	346, 536, 334, 545
-southofsouth:	334, 545, 334, 517
-southofsouth:	346, 536, 334, 517
-southofsouth:	368, 518, 334, 517
-southofsouth:	368, 518, 346, 536
-southofsouth:	378, 506, 368, 518
-southofsouth:	377, 507, 387, 516
-southofsouth:	378, 506, 375, 492
-southofsouth:	346, 536, 350, 562
-southofsouth:	285, 582, 303, 563
-southofsouth:	297, 583, 285, 582
-southofsouth:	297, 583, 278, 531
-southofsouth:	328, 580, 297, 583
-southofsouth:	285, 582, 239, 583
-southofsouth:	350, 576, 328, 580
-southofsouth:	350, 562, 350, 576
-southofsouth:	366, 563, 350, 562
-southofsouth:	391, 576, 383, 571
-southofsouth:	394, 560, 383, 571
-southofsouth:	382, 551, 383, 571
-southofsouth:	420, 579, 391, 576
-southofsouth:	391, 576, 350, 576
-southofsouth:	413, 571, 420, 579
-southofsouth:	425, 570, 413, 571
-southofsouth:	413, 571, 410, 557
-southofsouth:	425, 570, 417, 554
-southofsouth:	418, 544, 406, 545
-southofsouth:	410, 557, 406, 545
-southofsouth:	417, 554, 418, 544
-southofsouth:	406, 545, 404, 534
-southofsouth:	404, 534, 399, 521
-southofsouth:	399, 521, 387, 516
-southofsouth:	387, 516, 371, 537
-southofsouth:	371, 537, 368, 518
-southofsouth:	371, 537, 346, 536
-southofsouth:	327, 521, 305, 529
-southofsouth:	408, 507, 399, 521
-southofsouth:	408, 507, 387, 516
-southofsouth:	406, 490, 408, 507
-southofsouth:	406, 490, 378, 506
-southofsouth:	428, 508, 408, 507
-southofsouth:	452, 505, 428, 508
-southofsouth:	456, 491, 452, 505
-southofsouth:	456, 491, 428, 508
-path:	619, 305, 617, 275
-path:	617, 222, 587, 223
-path:	588, 265, 617, 275
-path:	588, 265, 617, 262
-path:	617, 222, 617, 262
-path:	617, 275, 617, 262
-path:	632, 224, 617, 222
-path:	643, 236, 632, 224
-path:	643, 236, 617, 262
-northquad:	454, 287, 443, 266
-northquad:	449, 253, 443, 266
-northquad:	458, 250, 449, 253
-northquad:	471, 244, 458, 250
-northquad:	471, 244, 499, 253
-northquad:	468, 213, 481, 247
-northquad:	468, 213, 471, 244
-northquad:	470, 200, 468, 213
-northquad:	470, 200, 458, 199
-northquad:	470, 200, 456, 188
-northquad:	458, 199, 456, 188
-northquad:	471, 189, 456, 188
-northquad:	470, 200, 471, 189
-northquad:	492, 221, 481, 247
-northquad:	492, 221, 494, 211
-northquad:	494, 211, 488, 198
-northquad:	494, 211, 493, 198
-northquad:	488, 198, 470, 200
-northquad:	493, 198, 488, 198
-northquad:	493, 198, 494, 176
-northquad:	506, 198, 493, 198
-northquad:	502, 221, 494, 211
-northquad:	517, 223, 502, 221
-northquad:	513, 211, 502, 221
-carrol:	144, 334, 84, 328
-carrol:	88, 293, 84, 328
-carrol:	131, 294, 88, 293
-carrol:	144, 334, 131, 294
-carrol:	185, 355, 144, 334
-carrol:	213, 368, 185, 355
-carrol:	258, 361, 213, 368
-carrol:	258, 361, 286, 349
-carrol:	358, 297, 286, 349
-carrol:	369, 238, 358, 297
-carrol:	373, 323, 358, 297
-carrol:	357, 323, 358, 297
-carrol:	294, 355, 286, 349
-carrol:	294, 355, 286, 372
-carrol:	314, 357, 294, 355
-carrol:	314, 357, 328, 380
-carrol:	328, 380, 328, 391
-carrol:	213, 368, 218, 379
-carrol:	218, 379, 218, 392
-carrol:	226, 398, 218, 392
-carrol:	218, 416, 218, 392
-carrol:	251, 414, 226, 398
-carrol:	256, 408, 251, 414
-carrol:	290, 414, 256, 408
-carrol:	256, 408, 258, 382
-carrol:	258, 382, 226, 398
-carrol:	218, 444, 218, 416
-carrol:	248, 476, 218, 444
-carrol:	248, 476, 273, 458
-carrol:	267, 490, 248, 476
-carrol:	269, 514, 239, 583
-southsouth:	418, 446, 419, 490
-bookstore:	429, 613, 420, 579
-bookstore:	430, 586, 425, 570
-bookstore:	429, 613, 430, 586
-bookstore:	430, 625, 429, 613
-bookstore:	430, 650, 430, 625
-bookstore:	430, 625, 392, 621
-bookstore:	384, 663, 392, 621
-bookstore:	387, 668, 384, 663
-bookstore:	395, 657, 384, 663
-bookstore:	395, 657, 387, 668
-path:	430, 650, 429, 657
-path:	429, 657, 416, 657
-path:	416, 657, 395, 657
-path:	418, 667, 416, 657
-path:	428, 666, 429, 657
-path:	418, 667, 387, 668
-path:	384, 663, 387, 668
-path:	428, 666, 418, 667
-path:	445, 623, 430, 625
-path:	463, 626, 445, 623
-path:	464, 643, 452, 644
-path:	463, 626, 464, 643
-path:	464, 643, 463, 666
-path:	463, 666, 428, 666
-stadium:	700, 423, 701, 454
-stadium:	700, 423, 687, 422
-stadium:	701, 388, 690, 387
-stadium:	720, 386, 701, 388
-stadium:	699, 420, 701, 388
-stadium:	717, 365, 720, 386
+stanford 545 184 546 159
+stanford 556 184 545 184
+stanford 545 184 534 184
+keenan 548 214 523 216
+keenan 548 214 549 195
+keenan 548 214 555 214
+keenan 545 184 549 195
+nquad 587 223 559 221
+nquad 587 223 558 263
+nquad 558 263 559 221
+nquad 588 265 587 223
+nquad 558 263 588 265
+nquad 573 282 558 263
+nquad 588 265 573 282
+nquad 590 303 573 282
+nquad 559 305 590 303
+nquad 573 282 559 305
+nquad 558 263 559 305
+nquad 573 206 587 223
+nquad 573 206 559 221
+nquad 559 194 573 206
+nquad 587 193 573 206
+nquad 588 173 587 193
+nquad 560 181 588 173
+nquad 559 194 560 181
+nquad 560 169 560 181
+nquad 546 159 560 169
+nquad 556 184 560 181
+nquad 549 195 559 194
+nquad 555 214 559 221
+nquad 559 194 587 193
+nquad 588 173 560 169
+nquad 559 194 559 221
+nquad 587 193 587 223
+nquad 588 265 590 303
+nquad 523 216 517 223
+nquad 559 221 517 223
+nquad 588 265 590 277
+nquad 590 303 590 277
+squad 266 445 263 430
+squad 280 445 266 445
+squad 290 414 280 445
+squad 263 430 290 414
+squad 263 430 265 419
+squad 290 414 265 419
+squad 328 414 290 414
+squad 328 414 280 445
+squad 301 392 290 414
+squad 311 404 290 414
+squad 291 391 290 414
+squad 301 392 291 391
+squad 300 398 301 392
+squad 311 404 300 398
+squad 318 396 311 404
+squad 328 391 318 396
+squad 316 390 328 391
+squad 318 396 316 390
+squad 328 414 318 396
+squad 311 404 328 414
+squad 316 390 301 392
+squad 308 381 301 392
+squad 316 390 308 381
+squad 330 444 280 445
+squad 355 444 330 444
+squad 328 414 330 444
+squad 355 444 328 414
+squad 354 417 328 414
+squad 354 417 355 444
+squad 354 417 376 419
+squad 376 419 355 444
+squad 355 444 377 446
+squad 376 419 377 446
+squad 377 446 418 429
+squad 418 429 376 419
+squad 424 416 418 429
+squad 376 419 424 416
+squad 404 444 377 446
+squad 403 434 404 444
+squad 418 429 403 434
+squad 405 420 403 434
+squad 418 429 405 420
+squad 424 416 405 420
+squad 407 406 405 420
+squad 404 444 418 446
+squad 418 429 418 446
+squad 418 446 457 442
+squad 457 442 418 429
+squad 456 416 457 442
+squad 456 416 418 429
+squad 424 416 456 416
+squad 472 433 457 442
+squad 456 416 472 433
+squad 486 446 472 433
+squad 457 442 486 446
+squad 484 422 472 433
+squad 486 446 484 422
+squad 471 411 456 416
+squad 484 422 471 411
+squad 511 433 484 422
+squad 486 446 511 433
+squad 530 417 511 433
+squad 530 444 530 417
+squad 511 433 530 444
+squad 512 446 530 444
+squad 486 446 512 446
+squad 510 416 484 422
+squad 511 433 510 416
+squad 530 417 510 416
+squad 551 417 530 417
+squad 568 444 530 444
+squad 551 417 568 444
+squad 551 417 568 421
+squad 568 444 568 421
+path 456 398 481 401
+path 456 398 456 416
+path 471 411 456 398
+path 471 411 481 401
+path 484 422 481 401
+path 431 395 456 416
+path 456 398 431 395
+path 509 395 481 401
+path 510 416 509 395
+path 509 395 484 422
+path 429 381 456 398
+path 451 381 456 398
+path 451 381 471 398
+path 487 383 471 398
+path 487 383 481 401
+path 508 374 481 401
+path 447 354 451 381
+path 447 354 429 381
+path 447 354 428 366
+path 497 352 508 374
+path 497 352 487 383
+path 497 352 447 354
+path 466 354 447 354
+path 497 352 478 354
+path 468 391 471 398
+path 471 398 477 389
+path 466 354 468 391
+path 477 389 478 354
+path 474 341 466 341
+path 478 354 474 341
+path 466 354 466 341
+path 466 341 447 354
+path 497 352 474 341
+path 466 341 467 333
+path 476 333 474 341
+path 467 333 476 333
+path 467 333 449 333
+path 492 331 476 333
+path 492 331 497 352
+path 449 333 447 354
+path 508 374 510 354
+path 510 354 497 352
+path 505 338 497 352
+path 510 354 505 338
+path 428 361 428 366
+path 428 361 419 353
+path 428 361 431 351
+path 419 353 431 351
+path 447 354 431 351
+path 431 351 437 338
+path 447 354 437 338
+path 449 333 437 338
+path 505 338 492 331
+path 507 331 492 331
+path 505 338 507 331
+path 450 312 449 333
+path 437 338 434 328
+path 450 312 434 328
+path 434 328 435 312
+path 450 312 435 312
+path 492 331 487 311
+path 476 333 487 311
+path 450 312 467 333
+path 471 311 450 312
+path 487 311 471 311
+path 471 325 467 333
+path 476 333 471 325
+path 471 311 471 325
+path 471 311 470 293
+path 470 293 450 312
+path 487 311 470 293
+path 487 311 507 331
+path 503 313 487 311
+path 507 331 503 313
+path 507 331 522 318
+path 470 293 481 287
+path 470 293 454 287
+path 454 287 450 312
+path 492 291 481 287
+path 487 311 492 291
+path 532 356 526 340
+path 510 354 532 356
+path 526 340 510 354
+path 505 338 532 356
+path 550 384 532 356
+path 550 384 487 383
+path 551 417 550 384
+path 548 343 532 356
+path 550 384 548 343
+path 546 317 522 318
+path 548 343 546 317
+path 559 305 546 317
+path 590 303 613 328
+path 548 343 549 329
+path 546 317 549 329
+path 613 328 549 329
+path 518 296 503 313
+path 522 318 518 296
+path 559 305 518 296
+path 522 280 518 296
+path 518 296 506 272
+path 506 272 525 272
+path 522 280 525 272
+path 506 272 492 291
+path 481 287 488 275
+path 506 272 488 275
+path 492 291 488 275
+path 506 272 499 253
+path 525 272 499 253
+path 519 253 506 272
+path 525 272 519 253
+path 499 253 519 253
+path 354 417 352 392
+path 356 354 352 392
+path 419 353 404 352
+path 374 351 404 352
+path 374 351 356 354
+path 352 392 354 375
+path 356 354 354 375
+path 374 380 354 375
+path 356 354 374 380
+path 374 351 354 375
+path 375 366 374 380
+path 374 351 375 366
+path 375 366 374 367
+path 395 370 375 366
+path 419 353 395 370
+path 374 351 395 370
+path 374 380 395 370
+path 406 383 392 384
+path 395 370 406 383
+path 374 380 392 384
+path 395 370 408 369
+path 408 369 406 383
+path 404 352 408 369
+path 356 354 373 323
+path 357 323 356 354
+path 373 323 357 323
+path 374 351 373 323
+path 357 323 374 351
+path 392 331 374 351
+path 373 323 392 331
+path 410 336 419 353
+path 410 336 404 352
+path 392 331 410 336
+path 410 336 412 322
+path 412 322 392 331
+path 397 310 392 331
+path 373 323 397 310
+path 435 312 397 310
+path 435 312 412 322
+path 275 248 273 250
+path 470 460 486 446
+quadbymaincircle 470 460 455 447
+quadbymaincircle 457 442 455 447
+quadbymaincircle 456 471 455 447
+quadbymaincircle 456 471 470 460
+quadbymaincircle 461 478 456 471
+quadbymaincircle 456 471 455 478
+quadbymaincircle 461 478 475 476
+quadbymaincircle 483 470 475 476
+quadbymaincircle 483 470 470 460
+quadbymaincircle 483 470 486 446
+quadbymaincircle 474 475 484 479
+quadbymaincircle 484 479 483 470
+maincircle 484 479 494 479
+maincircle 483 489 484 479
+maincircle 483 489 494 479
+maincircle 493 491 483 489
+maincircle 493 491 494 479
+maincircle 495 504 483 489
+maincircle 493 491 495 504
+maincircle 484 507 483 489
+path 514 504 495 504
+path 495 504 484 507
+path 514 504 514 491
+stinsonquad 529 506 514 504
+stinsonquad 515 500 529 499
+stinsonquad 529 499 529 506
+stinsonquad 529 506 529 530
+stinsonquad 529 530 530 546
+stinsonquad 530 546 529 559
+stinsonquad 529 559 530 569
+stinsonquad 530 569 530 580
+stinsonquad 530 580 529 588
+stinsonquad 529 588 528 624
+stinsonquad 528 624 530 668
+stinsonquad 542 523 529 506
+stinsonquad 542 523 557 506
+stinsonquad 542 523 531 537
+stinsonquad 556 536 542 523
+stinsonquad 556 536 530 546
+stinsonquad 530 546 557 551
+stinsonquad 557 551 543 566
+stinsonquad 543 566 530 546
+stinsonquad 543 566 557 579
+stinsonquad 543 566 530 580
+stinsonquad 557 579 530 580
+stinsonquad 557 593 529 588
+stinsonquad 543 607 529 588
+stinsonquad 543 607 528 624
+stinsonquad 543 607 557 593
+stinsonquad 543 607 558 624
+stinsonquad 558 624 528 624
+stinsonquad 558 624 557 593
+stinsonquad 557 579 555 594
+stinsonquad 557 579 559 591
+stinsonquad 570 591 557 579
+stinsonquad 559 591 567 578
+stinsonquad 558 624 557 667
+stinsonquad 543 640 528 624
+stinsonquad 543 640 530 668
+stinsonquad 558 624 543 640
+stinsonquad 557 667 543 640
+stinsonquad 558 643 544 660
+stinsonquad 544 660 529 638
+stinsonquad 544 660 530 668
+path 530 668 542 690
+path 542 690 530 716
+path 557 667 542 690
+path 557 667 558 714
+path 530 668 530 716
+path 558 714 530 716
+path 558 714 542 690
+stinsonquad 556 536 557 506
+stinsonquad 556 536 557 551
+stinsonquad 557 551 557 579
+stinsonquad 557 667 530 668
+stinsonquad 568 504 557 506
+stinsonquad 568 496 554 498
+stinsonquad 587 485 585 497
+stinsonquad 586 504 568 504
+stinsonquad 585 497 568 496
+stinsonquad 577 404 576 416
+stinsonquad 576 416 568 421
+stinsonquad 576 416 587 419
+stinsonquad 613 382 587 419
+stinsonquad 587 419 585 448
+stinsonquad 577 431 585 448
+stinsonquad 577 431 568 444
+stinsonquad 577 431 587 419
+stinsonquad 568 421 577 431
+stinsonquad 585 448 568 444
+stinsonquad 577 456 568 444
+stinsonquad 577 456 567 468
+aroundhes 613 328 613 382
+aroundhes 654 338 612 364
+aroundhes 612 364 613 382
+aroundhes 618 339 612 364
+aroundhes 619 322 618 339
+aroundhes 619 322 613 328
+aroundhes 619 322 625 318
+aroundhes 625 318 636 312
+aroundhes 636 312 653 304
+aroundhes 619 322 619 305
+aroundhes 653 304 619 305
+aroundhes 653 304 651 322
+aroundhes 653 304 636 312
+aroundhes 636 312 651 322
+aroundhes 636 312 619 305
+aroundhes 619 305 625 318
+aroundhes 639 338 625 318
+aroundhes 651 322 627 323
+aroundhes 627 323 619 322
+aroundhes 639 338 619 322
+aroundhes 651 322 639 338
+aroundhes 639 338 618 339
+aroundhes 654 338 639 338
+aroundhes 658 366 639 338
+aroundhes 658 366 612 364
+aroundhes 675 366 658 366
+aroundhes 676 389 658 366
+aroundhes 676 389 675 366
+aroundhes 618 388 613 382
+aroundhes 618 388 676 389
+aroundhes 676 424 676 389
+aroundhes 676 424 666 421
+aroundhes 676 455 676 424
+aroundhes 666 421 660 439
+aroundhes 676 455 660 439
+aroundhes 654 338 676 341
+aroundhes 689 340 676 341
+aroundhes 689 340 718 339
+aroundhes 675 366 689 366
+aroundhes 675 366 676 341
+aroundhes 689 340 689 366
+aroundhes 717 365 689 366
+aroundhes 718 339 717 365
+aroundhes 690 387 676 389
+aroundhes 690 387 689 366
+aroundhes 687 422 676 424
+path 690 387 687 422
+path 687 422 676 389
+path 690 456 676 455
+path 690 456 687 422
+path 701 454 687 422
+path 701 454 690 456
+path 653 304 652 283
+path 683 252 652 283
+path 652 283 683 252
+aroundhes 708 280 683 252
+modquad 708 280 652 283
+modquad 683 252 655 250
+modquad 655 250 652 283
+modquad 705 248 683 252
+modquad 705 248 708 280
+modquad 683 252 682 235
+modquad 682 235 643 236
+modquad 682 235 681 213
+modquad 681 213 663 186
+modquad 663 186 654 218
+modquad 654 218 679 218
+modquad 679 218 681 213
+modquad 710 214 681 213
+modquad 710 214 707 200
+modquad 663 186 682 188
+modquad 682 176 671 174
+modquad 691 172 682 176
+modquad 682 188 682 176
+modquad 693 185 682 188
+modquad 710 184 693 185
+modquad 707 200 693 185
+modquad 693 185 681 213
+modquad 682 188 681 213
+modquad 681 137 682 176
+snitestadium 607 501 607 486
+snitestadium 607 501 676 455
+snitestadium 607 501 586 504
+snitestadium 607 501 585 497
+snitestadium 567 578 570 591
+debart 567 578 568 504
+debart 567 578 567 516
+stadium 567 578 587 583
+stadium 602 591 570 591
+stadium 587 583 589 592
+path 598 580 587 583
+path 598 580 589 592
+path 587 583 602 591
+path 598 580 602 591
+path 600 560 598 580
+path 600 560 593 553
+path 600 560 604 553
+path 604 553 593 553
+path 604 538 604 553
+path 604 538 594 538
+path 608 520 604 538
+path 607 501 608 520
+southofsouth 311 493 298 481
+southofsouth 311 493 311 479
+southofsouth 311 479 298 481
+southofsouth 325 493 311 493
+southofsouth 350 492 325 493
+southofsouth 350 492 375 492
+southofsouth 375 492 406 490
+southofsouth 406 490 419 490
+southofsouth 419 490 432 489
+southofsouth 456 491 432 489
+southofsouth 455 478 456 491
+southofsouth 311 493 267 490
+southofsouth 269 514 267 490
+southofsouth 269 514 299 517
+southofsouth 278 531 269 514
+southofsouth 305 529 299 517
+southofsouth 305 529 278 531
+southofsouth 329 513 299 517
+southofsouth 329 513 325 493
+southofsouth 329 513 327 521
+southofsouth 327 521 334 517
+southofsouth 346 536 334 545
+southofsouth 334 545 334 517
+southofsouth 346 536 334 517
+southofsouth 368 518 334 517
+southofsouth 368 518 346 536
+southofsouth 378 506 368 518
+southofsouth 377 507 387 516
+southofsouth 378 506 375 492
+southofsouth 346 536 350 562
+southofsouth 285 582 303 563
+southofsouth 297 583 285 582
+southofsouth 297 583 278 531
+southofsouth 328 580 297 583
+southofsouth 285 582 239 583
+southofsouth 350 576 328 580
+southofsouth 350 562 350 576
+southofsouth 366 563 350 562
+southofsouth 391 576 383 571
+southofsouth 394 560 383 571
+southofsouth 382 551 383 571
+southofsouth 420 579 391 576
+southofsouth 391 576 350 576
+southofsouth 413 571 420 579
+southofsouth 425 570 413 571
+southofsouth 413 571 410 557
+southofsouth 425 570 417 554
+southofsouth 418 544 406 545
+southofsouth 410 557 406 545
+southofsouth 417 554 418 544
+southofsouth 406 545 404 534
+southofsouth 404 534 399 521
+southofsouth 399 521 387 516
+southofsouth 387 516 371 537
+southofsouth 371 537 368 518
+southofsouth 371 537 346 536
+southofsouth 327 521 305 529
+southofsouth 408 507 399 521
+southofsouth 408 507 387 516
+southofsouth 406 490 408 507
+southofsouth 406 490 378 506
+southofsouth 428 508 408 507
+southofsouth 452 505 428 508
+southofsouth 456 491 452 505
+southofsouth 456 491 428 508
+path 619 305 617 275
+path 617 222 587 223
+path 588 265 617 275
+path 588 265 617 262
+path 617 222 617 262
+path 617 275 617 262
+path 632 224 617 222
+path 643 236 632 224
+path 643 236 617 262
+northquad 454 287 443 266
+northquad 449 253 443 266
+northquad 458 250 449 253
+northquad 471 244 458 250
+northquad 471 244 499 253
+northquad 468 213 481 247
+northquad 468 213 471 244
+northquad 470 200 468 213
+northquad 470 200 458 199
+northquad 470 200 456 188
+northquad 458 199 456 188
+northquad 471 189 456 188
+northquad 470 200 471 189
+northquad 492 221 481 247
+northquad 492 221 494 211
+northquad 494 211 488 198
+northquad 494 211 493 198
+northquad 488 198 470 200
+northquad 493 198 488 198
+northquad 493 198 494 176
+northquad 506 198 493 198
+northquad 502 221 494 211
+northquad 517 223 502 221
+northquad 513 211 502 221
+carrol 144 334 84 328
+carrol 88 293 84 328
+carrol 131 294 88 293
+carrol 144 334 131 294
+carrol 185 355 144 334
+carrol 213 368 185 355
+carrol 258 361 213 368
+carrol 258 361 286 349
+carrol 358 297 286 349
+carrol 369 238 358 297
+carrol 373 323 358 297
+carrol 357 323 358 297
+carrol 294 355 286 349
+carrol 294 355 286 372
+carrol 314 357 294 355
+carrol 314 357 328 380
+carrol 328 380 328 391
+carrol 213 368 218 379
+carrol 218 379 218 392
+carrol 226 398 218 392
+carrol 218 416 218 392
+carrol 251 414 226 398
+carrol 256 408 251 414
+carrol 290 414 256 408
+carrol 256 408 258 382
+carrol 258 382 226 398
+carrol 218 444 218 416
+carrol 248 476 218 444
+carrol 248 476 273 458
+carrol 267 490 248 476
+carrol 269 514 239 583
+southsouth 418 446 419 490
+bookstore 429 613 420 579
+bookstore 430 586 425 570
+bookstore 429 613 430 586
+bookstore 430 625 429 613
+bookstore 430 650 430 625
+bookstore 430 625 392 621
+bookstore 384 663 392 621
+bookstore 387 668 384 663
+bookstore 395 657 384 663
+bookstore 395 657 387 668
+path 430 650 429 657
+path 429 657 416 657
+path 416 657 395 657
+path 418 667 416 657
+path 428 666 429 657
+path 418 667 387 668
+path 384 663 387 668
+path 428 666 418 667
+path 445 623 430 625
+path 463 626 445 623
+path 464 643 452 644
+path 463 626 464 643
+path 464 643 463 666
+path 463 666 428 666
+stadium 700 423 701 454
+stadium 700 423 687 422
+stadium 701 388 690 387
+stadium 720 386 701 388
+stadium 699 420 701 388
+stadium 717 365 720 386
