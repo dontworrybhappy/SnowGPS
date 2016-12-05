@@ -390,91 +390,126 @@ path 452 644 387
 path 463 626 388
 path 445 623 389
 stadium 701 388 390
-bookstorebuilding 406 648 390
-bookstorebuilding 424 635 390
-southdininghall 354 484 390
-southdininghall 353 454 390
-bookstorebuilding 194 653 390
-alumni 448 478 390
-alumni 447 451 390
-alumni 425 475 390
-alumni 633 449 390
-alumni 633 482 390
-path 612 613 390
-path 531 731 390
-dpca 559 732 390
-dpca 547 738 390
-dpca 719 300 390
-hes 719 321 390
-hes 710 322 390
-hes 708 306 390
-hes 659 321 390
-hes 682 288 390
-hes 681 332 390
-hestowardsparking 739 341 390
-hestowardsparking 753 341 390
-hestowardsparking 754 388 390
-hestowardsparking 752 444 390
-hestowardsparking 750 471 390
-hestowardsparking 730 467 390
-hestowardsparking 723 282 390
-hestowardsparking 743 282 390
-hestowardsparking 732 256 390
-hestowardsparking 748 223 390
-hestowardsparking 731 190 390
-hestowardsparking 752 143 390
-hestowardsparking 750 214 390
-hestowardsparking 762 214 390
-hestowardsparking 682 85 390
-stepan 666 83 390
-stepan 643 81 390
-stepan 630 81 390
-stepan 624 99 390
-stepan 623 142 390
-stepan 623 186 390
-stepan 623 177 390
-stepan 704 81 390
-stepan 726 83 390
-stepan 759 82 390
-stepan 715 83 390
-stepan 757 79 390
-stepan 758 131 390
-stepan 780 447 390
-abovejoyce 799 446 390
-abovejoyce 811 473 390
-abovejoyce 814 415 390
-abovejoyce 818 449 390
-abovejoyce 857 426 390
-abovejoyce 858 368 390
-abovejoyce 862 490 390
-abovejoyce 852 627 390
-abovejoyce 860 574 390
-abovejoyce 833 567 390
-abovejoyce 752 484 390
-abovejoyce 761 507 390
-abovejoyce 753 537 390
-abovejoyce 752 566 390
-abovejoyce 759 599 390
-abovejoyce 730 616 390
-abovejoyce 766 624 390
-abovejoyce 749 569 390
-abovejoyce 736 608 390
-abovejoyce 732 614 390
-abovejoyce 737 563 390
-abovejoyce 738 537 390
-abovejoyce 738 502 390
-abovejoyce 723 485 390
-abovejoyce 684 473 390
-abovejoyce 709 473 390
-abovejoyce 807 437 390
-abovejoyce 821 453 390
-abovejoyce 809 392 390
-abovejoyce 795 386 390
-abovejoyce 789 373 390
-abovejoyce 805 371 390
-debart 569 551 390
-debart 585 569 390
-debart 569 571 390
+bookstorebuilding 406 648 391
+bookstorebuilding 424 635 392
+southdininghall 354 484 393
+southdininghall 353 454 394
+bookstorebuilding 194 653 395
+alumni 448 478 396
+alumni 447 451 397
+alumni 425 475 398
+alumni 633 449 399
+alumni 633 482 400
+path 612 613 401
+path 531 731 402
+dpca 559 732 403
+dpca 547 738 404
+dpca 719 300 405
+hes 719 321 406
+hes 710 322 407
+hes 708 306 408
+hes 659 321 409
+hes 682 288 410
+hes 681 332 411
+hestowardsparking 739 341 412
+hestowardsparking 753 341 413
+hestowardsparking 754 388 414
+hestowardsparking 752 444 415
+hestowardsparking 750 471 416
+hestowardsparking 730 467 417
+hestowardsparking 723 282 418
+hestowardsparking 743 282 419
+hestowardsparking 732 256 420
+hestowardsparking 748 223 421
+hestowardsparking 731 190 422
+hestowardsparking 752 143 423
+hestowardsparking 750 214 424
+hestowardsparking 762 214 425
+hestowardsparking 682 85 426
+stepan 666 83 427
+stepan 643 81 428
+stepan 630 81 429
+stepan 624 99 430
+stepan 623 142 431
+stepan 623 186 432
+stepan 623 177 433
+stepan 704 81 434
+stepan 726 83 435
+stepan 759 82 436
+stepan 715 83 437
+stepan 757 79 438
+stepan 758 131 439
+stepan 780 447 440
+abovejoyce 799 446 441
+abovejoyce 811 473 442
+abovejoyce 814 415 443
+abovejoyce 818 449 444
+abovejoyce 857 426 445
+abovejoyce 858 368 446
+abovejoyce 862 490 447
+abovejoyce 852 627 448
+abovejoyce 860 574 449
+abovejoyce 833 567 450
+abovejoyce 752 484 451
+abovejoyce 761 507 452
+abovejoyce 753 537 453
+abovejoyce 752 566 454
+abovejoyce 759 599 455
+abovejoyce 730 616 456
+abovejoyce 766 624 457
+abovejoyce 749 569 458
+abovejoyce 736 608 459
+abovejoyce 732 614 460
+abovejoyce 737 563 461
+abovejoyce 738 537 462
+abovejoyce 738 502 463
+abovejoyce 723 485 464
+abovejoyce 684 473 465
+abovejoyce 709 473 466
+abovejoyce 807 437 467
+abovejoyce 821 453 468
+abovejoyce 809 392 469
+abovejoyce 795 386 470
+abovejoyce 789 373 471
+abovejoyce 805 371 472
+debart 569 551 473
+debart 585 569 474
+debart 569 571 475
+path 495 88 476
+path 504 100 477
+path 473 64 478
+path 451 115 479
+path 413 88 480
+path 441 24 481
+path 497 670 482
+duncan 248 576 483
+duncan 261 573 484
+duncan 261 555 485
+duncan 265 550 486
+knott 720 241 487
+knott 715 241 488
+knott 716 268 489
+knott 690 238 490
+knott 688 235 491
+knott 730 238 492
+knott 717 190 493
+mendoza 570 657 494
+mendoza 568 605 495
+mendoza 592 605 496
+mendoza 589 653 497
+mendoza 571 625 498
+mendoza 592 627 499
+mendoza 572 663 500
+fitzpatrick 561 481 500
+fitzpatrick 561 469 501
+fitzpatrick 557 454 502
+fitzpatrick 524 479 503
+fitzpatrick 524 467 504
+dome 474 280 504
+dome 471 254 505
+lafun 514 334 506
+lafun 538 331 507
+pathrr 275 411 507
 EDGES
 stanford 545 184 546 159
 stanford 556 184 545 184
@@ -1202,3 +1237,41 @@ abovejoyce 858 368 857 426
 debart 569 551 557 551
 debart 587 583 585 569
 debart 567 578 569 571
+duncan 278 531 265 550
+duncan 265 550 261 555
+duncan 261 573 261 555
+duncan 261 573 248 576
+duncan 239 583 248 576
+knott 720 241 715 241
+knott 690 238 715 241
+knott 690 238 715 241
+knott 715 241 690 238
+knott 715 241 690 238
+knott 715 241 716 268
+knott 690 238 715 241
+knott 682 235 690 238
+knott 708 280 716 268
+knott 723 282 716 268
+knott 730 238 720 241
+knott 730 238 732 256
+knott 731 190 730 238
+mendoza 570 591 568 605
+mendoza 589 592 592 605
+mendoza 571 625 570 657
+mendoza 592 627 589 653
+mendoza 592 627 571 625
+mendoza 568 605 571 625
+mendoza 592 605 592 627
+fitzpatrick 567 468 561 469
+fitzpatrick 557 454 561 469
+fitzpatrick 569 484 561 481
+fitzpatrick 561 469 561 481
+fitzpatrick 561 481 524 479
+fitzpatrick 524 467 524 479
+dome 471 254 474 280
+dome 471 254 471 244
+dome 481 287 474 280
+dome 470 293 474 280
+lafun 507 331 514 334
+lafun 538 331 514 334
+lafun 549 329 538 331
