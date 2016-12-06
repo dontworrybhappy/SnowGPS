@@ -1,4 +1,5 @@
-#install: make get-deps
+sudo: required
+install: make get-deps
 language: cpp
 #script: scons
 compiler: gcc
