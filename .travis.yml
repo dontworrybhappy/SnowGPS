@@ -2,6 +2,6 @@
 language: cpp
 #script: scons
 compiler: gcc
-before script: make && make test
+script: make && make test
 # uncomment and edit the following line if your project needs to run something other than `rake`:
 # # script: bundle exec rspec spec
