@@ -1,3 +1,4 @@
+sudo: required
 install: make get-deps
 language: cpp
 #script: scons
