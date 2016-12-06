@@ -1,0 +1,8 @@
+install: make get-deps
+        ./configure && make && make test
+language: cpp
+#script: scons
+#compiler: gcc
+#
+## uncomment and edit the following line if your project needs to run something other than `rake`:
+## # script: bundle exec rspec spec
