@@ -1,4 +1,4 @@
-CXX=            g++
+CXX=            g++-4.8
 CXXFLAGS=       -g -Wall -std=gnu++11
 SHELL=          bash
 MEASURE=        ../common/measure
