@@ -27,3 +27,4 @@ get-deps:
 	sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
 	sudo apt-get -qq update
 	sudo apt-get -qq install g++-4.8
+	sudo apt-get -qq install valgrind
