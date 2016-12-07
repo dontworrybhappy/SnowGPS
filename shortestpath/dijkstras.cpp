@@ -18,15 +18,16 @@ Declarations
 typedef pair<int, int> index;
 typedef pair<int, index> mark;
 
-struct node{
-    int weight;
-    map<index, int> edges;
+struct Node{
+    int ID;
+    int x_pos;
+    int y_pos;
 };
 
 struct Edge{
-    int value;
-    index left;
-    index right;
+    int weight;
+    int start;
+    int end;
 };
 
 /*
@@ -38,20 +39,30 @@ auto comp = [](Edge a, Edge b) {return a.value > b.value; };
 Main Execution
 */
 int main(int argc, char *argv[]) {
-    int num_types, value, num_rows, num_columns, player_pos_x, player_pos_y, player_dest_x, player_dest_y;
-    char symbol;
+    //variables for graph
+    int NUM_VERTICES,
+        NUM_EDGES;
+    int tempID, tempX, tempY;
+    //char symbol;
     
-    map<char, int> values;
-    map<index, node> graph;
-    cin >> num_types;
+    //Variables for start point and end point
+    int START_POSX, START_POSY;
+    int END_POSX, END_POSY;
 
-    for( int i = 0; i < num_types; i++){
-        cin >> symbol;
-        cin >> value;
-        values[symbol] = value;
+
+
+    //map<char, int> values;
+    //map<index, node> graph;
+    
+    //Instantiate vector of nodes...
+    cin >> NUM_VERTICES;
+    vector<Node> v;
+    for( int i = 0; i < NUM_VERTICES; i++){
+       cin >> tempID >> tempX >> tempY;
+       v.push_back({tempID, tempX, tempY});
     }
 
-    cin >> num_rows >> num_columns;
+    /*cin >> num_rows >> num_columns;
     for(int i = 0; i < num_rows; i++){
         for(int j = 0; j < num_columns; j++){
             cin >> symbol;
@@ -70,8 +81,10 @@ int main(int argc, char *argv[]) {
                 graph[index(i,j+1)].edges[x] = values[symbol];
             }
         }
-    }
+    }*/
     
+    
+
     cin >> player_pos_x >> player_pos_y;
     index start(player_pos_x, player_pos_y);
     cin >> player_dest_x >> player_dest_y;
