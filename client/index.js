@@ -4,10 +4,13 @@ var bounds = [[0,0], [850, 1100]];
 var map = L.map('mapid', {
     crs: L.CRS.Simple
 }).setView([850/2, 1100/2], 0);
+
 var image = L.imageOverlay('map.png', bounds).addTo(map);
 var me = L.circle( [183, 418], {radius: 10}).addTo(map);
 var dest = L.circle( [18399, 41899],
 {radius: 10, color: '#33ff88'}).addTo(map);
+var course = L.polyline([
+]).addTo(map);
 
 var popup = L.popup();
 
@@ -44,9 +47,12 @@ me.setRadius(po.coords.accuracy / METERS_PER_PIXEL);
 gps();
 }, function(){}, geo_options);
 
-L.polyline([
-]).addTo(map);
 
 function gps() {
-
+    //TODO: Make API Request
+    
+    //TODO: Parse results into list
+    
+    var returnedList = [];
+    course.setLatLngs(returnedList);
 }
