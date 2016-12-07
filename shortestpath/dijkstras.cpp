@@ -43,6 +43,7 @@ int main(int argc, char *argv[]) {
     int NUM_VERTICES,
         NUM_EDGES;
     int tempID, tempX, tempY;
+    int tempWeight, tempStart, tempEnd;
     //char symbol;
     
     //Variables for start point and end point
@@ -56,11 +57,21 @@ int main(int argc, char *argv[]) {
     
     //Instantiate vector of nodes...
     cin >> NUM_VERTICES;
-    vector<Node> v;
+    vector<Node> vecNodes;
     for( int i = 0; i < NUM_VERTICES; i++){
        cin >> tempID >> tempX >> tempY;
-       v.push_back({tempID, tempX, tempY});
+       vecNodes.push_back({tempID, tempX, tempY});
     }
+
+    //Instantiate vector of edges
+    cin >> NUM_EDGES;
+    vector<Edge> vecEdges;
+
+    for( int i = 0; i < NUM_EDGES; i++){
+       cin >> tempStart >> tempEnd >> tempWeight;
+       vecEdges.push_back({tempStart, tempEnd, tempWeight});
+    }
+
 
     /*cin >> num_rows >> num_columns;
     for(int i = 0; i < num_rows; i++){
@@ -85,10 +96,10 @@ int main(int argc, char *argv[]) {
     
     
 
-    cin >> player_pos_x >> player_pos_y;
-    index start(player_pos_x, player_pos_y);
-    cin >> player_dest_x >> player_dest_y;
-    index end(player_dest_x, player_dest_y);
+    cin >> START_POSX >> START_POSY;
+    index start(START_POSX, START_POSY);
+    cin >> END_POSX >> END_POSY;
+    index end(START_POSX, START_POSY);
 
     /*
     Dijkstras 
