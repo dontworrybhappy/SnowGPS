@@ -13,6 +13,7 @@ for e in edge:
     ne.append(-1) #second node
     ne.append(math.sqrt((ne[1] - ne[3])**2 + (ne[2] - ne[4])**2)) #distance
     new_edge.append(ne)
+print len(vert)
 for v in vert:
     for e in new_edge:
         if e[1] == v[1] and e[2] == v[2]:
@@ -22,6 +23,7 @@ for v in vert:
     new_vert.append(list(v))
     print('{} {} {} {}'.format(*v))
 print('')
+print len(new_edge)
 for e in new_edge:
     if(e[0] in f):
         e[-1] = 0
