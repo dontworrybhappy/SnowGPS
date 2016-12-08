@@ -12,6 +12,8 @@
 #include <fstream>
 #include <string>
 
+#define MAP_Y(y) (850 - y)
+
 using namespace std;
 
 /*
@@ -151,10 +153,10 @@ int main(int argc, char *argv[]) {
     auto curr = start;
     cout << '[';
     while (curr != end) {
-        cout << '[' << curr.first << ',' << curr.second << "]," << endl;
+        cout << '[' << MAP_Y(curr.second) << ',' << curr.first << "]," << endl;
         curr = marked[curr];
     }
-    cout << ']' << endl;
+    cout << '[' << MAP_Y(curr.second) << ',' << curr.first << "]]" << endl;
     return 0;
 }
 
