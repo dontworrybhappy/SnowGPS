@@ -57,11 +57,12 @@ function gps() {
     var mel = me.getLatLng();
     var del = dest.getLatLng();
     loc = "" + mel.lat + "," + mel.lng + "," +  del.lat + "," + del.lng;
-    xhr.open('GET', "http://johnbot.me:3000/snow?loc=" + loc, true);
+    xhr.open('GET', "https://www.johnbot.me/snow?loc=" + loc, true);
     xhr.send();
      
     xhr.addEventListener("readystatechange", function (e){
         if (xhr.readyState == 4 && xhr.status == 200) {
+            console.log(xhr.responseText);
             var returnedList = JSON.parse(xhr.responseText);
             course.setLatLngs(returnedList);
         }
