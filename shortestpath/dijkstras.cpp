@@ -116,12 +116,58 @@ int main(int argc, char *argv[]) {
     }*/
     
     
-    // does this read in from a file?
+    // does this read in from a file? - apparently not
     cin >> START_POSX >> START_POSY;
-    index start(START_POSX, START_POSY);
     cin >> END_POSX >> END_POSY;
-    index end(START_POSX, START_POSY);
+        
+    int idNum;
+    double startx_distance, starty_distace, endx_distance, endy_distance;
+    double start_differencex, start_differencey, end_differencex, end_differencey;
+       
+    // initializes the starting distances by comparing to the first value in the vector 
+    startx_distance = vecNodes[0].x_pos - START_POSX;
+    starty_distance = vecNodes[0].y_pos - START_POSY;
+    endx_distance = vecNodes[0].x_pos - END_POSX;
+    endy_distance = vecNodes[0].y_pos - END_POSY;
+    
+    for(int i = 0; i < vecNodes.size(); i++) {
+        start_differencex = vecNodes[i].x_pos - START_POSX;
+        start_differencey = vecNodes[i].y_pos - START_POSY;
 
+        if (startx_distance == 0 && starty_distance == 0) { // if the initial value matches the user's position
+            index start(START_POSX, START_POSY);
+            break;
+        }
+
+        if (startx_distance > start_differencex && starty_distance > start_differencey) { // if not
+            startx_distance = start_differencex;
+            starty_distance = start_differencey;
+            idNum = i; // stores for the index creation
+        }    
+    }
+
+    index start(vecNodes[idNum].x_pos, vecNodes[idNum].y_pos); // creates a start index
+
+    idNum = 0; // resets the idNum for end index
+
+    for(int i = 0; i < vecNodes.size(); i++) {
+        end_differencex = vecNodes[i].x_pos - END_POSX;
+        end_differencey = vecNodes[i].y_pos - END_POSY;
+
+        if (end_differencex == 0 && end_differencey == 0) { // if the initial value matches the user's position
+            index end(END_POSX, END_POSY);
+            break;
+        }
+
+        if (endx_distance > end_differencex && endy_distance > end_differencey) { // if not
+            endx_distance = end_differencex;
+            endy_distance = end_differencey;
+            idNum = i; // stores for the index creation
+        }    
+    }
+
+    index end(vecNodes[idNum].x_pos, vecNodes[idNum].y_pos); // creates an end index
+        
     /*
     Dijkstras 
     */
