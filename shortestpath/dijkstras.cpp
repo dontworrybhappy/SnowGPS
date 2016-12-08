@@ -121,8 +121,8 @@ int main(int argc, char *argv[]) {
     cin >> END_POSX >> END_POSY;
         
     int idNum;
-    double startx_distance, starty_distace, endx_distance, endy_distance;
-    double start_differencex, start_differencey, end_differencex, end_differencey;
+    int startx_distance, starty_distace, endx_distance, endy_distance;
+    int start_differencex, start_differencey, end_differencex, end_differencey;
        
     // initializes the starting distances by comparing to the first value in the vector 
     startx_distance = vecNodes[0].x_pos - START_POSX;
