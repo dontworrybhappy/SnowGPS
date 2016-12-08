@@ -15,12 +15,12 @@ var course = L.polyline([
 
 var popup = L.popup();
 
+function map_y(y) {
+    return 850 - y;
+}
+
 function onMapClick(e) {
     dest.setLatLng(e.latlng);
-    popup
-        .setLatLng(e.latlng)
-        .setContent('Destination')
-        .openOn(map);
     ready = true;
     gps();
 }
@@ -52,19 +52,18 @@ gps();
 
 function gps() {
     if (!ready) return;
-    //TODO: Make API Request
     var xhr = new XMLHttpRequest();
     var mel = me.getLatLng();
     var del = dest.getLatLng();
-    loc = "" + mel.lat + "," + mel.lng + "," +  del.lat + "," + del.lng;
-    xhr.open('GET', "https://www.johnbot.me/snow?loc=" + loc, true);
+    loc = "" + parseInt(mel.lng, 10) + "," + map_y(parseInt(mel.lat, 10)) + ",";
+    loc += parseInt(del.lng, 10) + "," + map_y(parseInt(del.lat, 10));
+    xhr.open('GET', "https://johnbot.me:/snow?loc=" + loc, true);
     xhr.send();
      
     xhr.addEventListener("readystatechange", function (e){
         if (xhr.readyState == 4 && xhr.status == 200) {
-            console.log(xhr.responseText);
-            var returnedList = JSON.parse(xhr.responseText);
-            course.setLatLngs(returnedList);
+            var returned = JSON.parse(xhr.responseText);
+            course.setLatLngs(JSON.parse(returned["path"]));
         }
     }, false);
 }
