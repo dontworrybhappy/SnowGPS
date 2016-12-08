@@ -4,6 +4,7 @@ var bounds = [[0,0], [850, 1100]];
 var map = L.map('mapid', {
     crs: L.CRS.Simple
 }).setView([850/2, 1100/2], 0);
+var ready = false;
 
 var image = L.imageOverlay('map.png', bounds).addTo(map);
 var me = L.circle( [183, 418], {radius: 10}).addTo(map);
@@ -20,6 +21,7 @@ function onMapClick(e) {
         .setLatLng(e.latlng)
         .setContent('Destination')
         .openOn(map);
+    ready = true;
     gps();
 }
 
@@ -49,10 +51,19 @@ gps();
 
 
 function gps() {
+    if (!ready) return;
     //TODO: Make API Request
-    
-    //TODO: Parse results into list
-    
-    var returnedList = [];
-    course.setLatLngs(returnedList);
+    var xhr = new XMLHttpRequest();
+    var mel = me.getLatLng();
+    var del = dest.getLatLng();
+    loc = "" + mel.lat + "," + mel.lng + "," +  del.lat + "," + del.lng;
+    xhr.open('GET', "http://johnbot.me:3000/snow?loc=" + loc, true);
+    xhr.send();
+     
+    xhr.addEventListener("readystatechange", function (e){
+        if (xhr.readyState == 4 && xhr.status == 200) {
+            var returnedList = JSON.parse(xhr.responseText);
+            course.setLatLngs(returnedList);
+        }
+    }, false);
 }
