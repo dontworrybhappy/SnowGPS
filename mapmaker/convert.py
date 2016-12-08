@@ -2,6 +2,8 @@
 import maping
 import math
 i, vert, edge = maping.load_map('./map.txt')
+f = open('./buildings.txt')
+f = f.read()
 new_edge = []
 new_vert = []
 new_v_id = 0
@@ -21,4 +23,6 @@ for v in vert:
     print('{} {} {} {}'.format(*v))
 print('')
 for e in new_edge:
+    if(e[0] in f):
+        e[-1] = 0
     print('{} {} {} {} {} {} {} {}'.format(*e))
