@@ -2,13 +2,15 @@
 // Shortest Path Algorithm
 // Snow GPS
 // Jess, Happy, Jeff Ryan
-//
+
 
 #include <iostream>
 #include <map>
 #include <set>
 #include <queue>
 #include <algorithm>
+#include <fstream>
+#include <string>
 
 using namespace std;
 
@@ -40,36 +42,55 @@ Main Execution
 */
 int main(int argc, char *argv[]) {
     //variables for graph
-    int NUM_VERTICES,
-        NUM_EDGES;
+    int NUM_VERTICES;
+    int NUM_EDGES;
     int tempID, tempX, tempY;
     int tempWeight, tempStart, tempEnd;
-    //char symbol;
+    vector<Node> vecNodes;
+    vector<Edge> vecEdges;
     
     //Variables for start point and end point
     int START_POSX, START_POSY;
     int END_POSX, END_POSY;
 
+    /*
+    Reading in from a file
+    */
 
+    string filename;    
+    ifstream ifs;
+    string theline;
 
-    //map<char, int> values;
-    //map<index, node> graph;
-    
-    //Instantiate vector of nodes...
-    cin >> NUM_VERTICES;
-    vector<Node> vecNodes;
-    for( int i = 0; i < NUM_VERTICES; i++){
-       cin >> tempID >> tempX >> tempY;
-       vecNodes.push_back({tempID, tempX, tempY});
+    cin >> filename;
+   
+    ifs.open(filename); // open the file 
+
+    if(!ifs) { // if the file does not exist, error out
+        cout << "Error opening file: " << filename << endl;
+        return 1;
     }
 
-    //Instantiate vector of edges
-    cin >> NUM_EDGES;
-    vector<Edge> vecEdges;
+    while(!ifs.eof()) {
+        ifs >> NUM_VERTICES;
 
-    for( int i = 0; i < NUM_EDGES; i++){
-       cin >> tempStart >> tempEnd >> tempWeight;
-       vecEdges.push_back({tempStart, tempEnd, tempWeight});
+        for(int i = 0; i < NUM_VERTICES; i++) {
+            ifs >> tempID >> tempX >> tempY;
+            Node temp1;
+            temp1.ID = tempID;
+            temp1.x_pos = tempX;
+            temp1.y_pos = tempY;
+            vecNodes.push_back(temp1); 
+        }
+            ifs >> NUM_EDGES;
+
+        for(int i = 0; i < NUM_EDGES; i++){
+            ifs >> tempStart >> tempEnd >> tempWeight;
+            Edge temp2;
+            temp2.weight = tempWeight;
+            temp2.start = tempStart;
+            temp2.end = tempEnd;
+            vecEdges.push_back(temp2);
+        }
     }
 
 
@@ -95,7 +116,7 @@ int main(int argc, char *argv[]) {
     }*/
     
     
-
+    // does this read in from a file?
     cin >> START_POSX >> START_POSY;
     index start(START_POSX, START_POSY);
     cin >> END_POSX >> END_POSY;
