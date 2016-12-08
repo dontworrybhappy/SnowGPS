@@ -16,12 +16,16 @@ for e in edge:
     new_edge.append(ne)
 #print len(vert)
 for v in vert:
+    flag = False
     for e in new_edge:
         if e[1] == v[1] and e[2] == v[2]:
             e[5] = v[3]
+            flag = True
         if e[3] == v[1] and e[4] == v[2]:
             e[6] = v[3]
-    new_vert.append(list(v))
+            flag = True
+    if flag:
+        new_vert.append(list(v))
 #    print('{} {} {} {}'.format(*v))
 #print('')
 #print len(new_edge)
