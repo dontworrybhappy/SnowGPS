@@ -38,7 +38,9 @@ for e in new_edge:
 for i in new_vert:
     f1.write('{} {} \n'.format(i[1], i[2]))
     for j in new_edge:
-        if (i[1] == j[1] and i[2] == j[2]) or (i[1] == j[3] and i[2] == j[4]): 
-            f1.write('{} {} {} {} {} \n'.format(j[7], j[1], j[2], j[3], j[4]))
-    f1.write('-1 \n')
+        if (i[1] == j[1] and i[2] == j[2]): 
+            f1.write('{} {} {} \n'.format(j[7], j[3], j[4]))
+        elif (i[1] == j[3] and i[2] == j[4]):  
+            f1.write('{} {} {} \n'.format(j[7], j[1], j[2]))
+    f1.write('-1 -1 \n')
             
