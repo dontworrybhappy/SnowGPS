@@ -3,7 +3,6 @@
 // Snow GPS
 // Jess, Happy, Jeff Ryan
 
-
 #include <iostream>
 #include <map>
 #include <set>
@@ -28,8 +27,11 @@ struct Node{
 
 struct Edge{
     int weight;
-    int start;
-    int end;
+    //int start;
+    //int end;
+    index start;
+    index end;
+
 };
 
 /*
@@ -52,6 +54,8 @@ int main(int argc, char *argv[]) {
     //Variables for start point and end point
     int START_POSX, START_POSY;
     int END_POSX, END_POSY;
+    
+    map <index, vector<Edge>> list;
 
     /*
     Reading in from a file
@@ -70,7 +74,20 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
+    // hahaha hahaha ha hah hahah
+    int first = -1, second, weight, endX, endY;
     while(!ifs.eof()) {
+        while (ifs >> first >> second, first != -1) {
+            ifs >> weight >> endX >> endY;
+            Edge temp;
+            temp.weight = weight;
+            temp.end = make_pair(endX, endY);
+            temp.start = make_pair(first, second);
+            list[make_pair(first,second)].push_back(temp);
+        }
+    }
+
+    /*while(!ifs.eof()) {
         ifs >> NUM_VERTICES;
 
         for(int i = 0; i < NUM_VERTICES; i++) {
@@ -91,8 +108,7 @@ int main(int argc, char *argv[]) {
             temp2.end = tempEnd;
             vecEdges.push_back(temp2);
         }
-    }
-
+    }*/
 
     /*cin >> num_rows >> num_columns;
     for(int i = 0; i < num_rows; i++){
@@ -116,7 +132,7 @@ int main(int argc, char *argv[]) {
     }*/
     
     
-    // does this read in from a file? - apparently not
+    // does this read in from a file? - apparently not - now they do?
     cin >> START_POSX >> START_POSY;
     cin >> END_POSX >> END_POSY;
         
@@ -171,7 +187,8 @@ int main(int argc, char *argv[]) {
     /*
     Dijkstras 
     */
-    priority_queue<Edge, vector<Edge>, decltype(comp) > frontier(comp);
+
+    priority_queue<Edge, vector<Edge>, decltype(comp)> frontier(comp);
 
     map<index, mark> marked;
 
