@@ -7,7 +7,8 @@ var map = L.map('mapid', {
 var ready = false;
 
 var image = L.imageOverlay('map.png', bounds).addTo(map);
-var me = L.circle( [183, 418], {radius: 10}).addTo(map);
+var me = L.circle( [183, 418], 
+{radius: 10, color: '#3388ff'}).addTo(map);
 var dest = L.circle( [18399, 41899],
 {radius: 10, color: '#33ff88'}).addTo(map);
 var course = L.polyline([
