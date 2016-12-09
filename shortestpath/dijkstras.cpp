@@ -56,7 +56,7 @@ int main(int argc, char *argv[]) {
     Reading in from a file
     */
 
-    string filename = "adjlist.txt";    
+    string filename = "./mapmaker/adjlist.txt";    
     ifstream ifs;
     string theline;
 
