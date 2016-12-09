@@ -1,5 +1,5 @@
 #!/usr/bin/env python2.7
-import sys, pygame, math
+import sys, math
 
 def vert_dist(p, x, y):
     return math.sqrt(((p[1]-x) ** 2) + ((p[2]-y) ** 2))
@@ -40,6 +40,7 @@ def save_map(fname, vertices, edges):
         f.write('{} {} {} {} {}\n'.format(*e))
     f.close()
 if __name__ == "__main__": 
+    import pygame
     pygame.init()
     size = width, height = 1100, 850
     screen = pygame.display.set_mode(size,pygame.FULLSCREEN)
