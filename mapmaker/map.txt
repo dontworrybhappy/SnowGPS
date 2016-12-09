@@ -475,6 +475,48 @@ abovejoyce 805 371 390
 debart 569 551 390
 debart 585 569 390
 debart 569 571 390
+building 542 333 390
+building 525 332 391
+building 529 323 392
+building 513 334 393
+building 471 283 394
+building 471 264 395
+building 471 252 396
+building 541 471 397
+building 561 467 398
+building 562 482 399
+building 518 474 400
+building 527 452 401
+building 528 408 402
+building 542 396 403
+building 529 386 404
+building 545 405 405
+building 598 372 406
+path 594 327 407
+path 70 34 408
+path 595 349 409
+path 596 358 410
+building 596 381 411
+building 572 360 412
+building 554 339 413
+building 552 365 414
+building 607 371 415
+building 458 218 416
+building 457 240 417
+building 443 206 418
+building 645 243 419
+building 649 275 420
+building 678 245 421
+building 649 251 422
+building 647 228 423
+building 648 193 424
+building 679 226 425
+building 716 270 426
+building 719 238 427
+building 688 238 428
+building 719 221 429
+building 718 187 430
+building 685 220 431
 EDGES
 stanford 545 184 546 159
 stanford 556 184 545 184
@@ -1202,3 +1244,71 @@ abovejoyce 858 368 857 426
 debart 569 551 557 551
 debart 587 583 585 569
 debart 567 578 569 571
+building 549 329 542 333
+building 526 340 525 332
+building 522 318 529 323
+building 525 332 529 323
+building 542 333 525 332
+building 529 323 542 333
+building 507 331 513 334
+building 525 332 513 334
+building 529 323 513 334
+building 470 293 471 283
+building 471 264 471 283
+building 471 252 471 264
+building 567 468 561 467
+building 541 471 561 467
+building 562 482 569 484
+building 541 471 562 482
+building 541 471 518 474
+building 541 471 527 452
+building 530 444 527 452
+building 512 446 518 474
+building 514 491 518 474
+building 530 417 528 408
+building 528 408 542 396
+building 550 384 542 396
+building 532 356 529 386
+building 542 396 529 386
+building 542 396 545 405
+path 613 328 598 372
+path 613 328 594 327
+building 596 358 598 372
+building 595 349 596 358
+building 594 327 595 349
+building 598 372 596 381
+building 548 343 554 339
+building 572 360 554 339
+building 550 384 552 365
+building 572 360 552 365
+building 598 372 572 360
+building 596 381 572 360
+building 572 360 607 371
+building 613 382 607 371
+building 468 213 458 218
+building 458 218 457 240
+building 471 244 457 240
+building 443 206 458 199
+building 458 218 443 206
+building 649 275 645 243
+building 645 243 678 245
+building 655 250 649 251
+building 645 243 649 251
+building 683 252 678 245
+building 652 283 649 275
+building 643 236 645 243
+building 647 228 648 193
+building 643 236 647 228
+building 663 186 648 193
+building 647 228 679 226
+building 682 235 679 226
+building 716 270 719 238
+building 688 238 719 238
+building 682 235 688 238
+building 732 256 719 238
+building 723 282 716 270
+building 719 221 718 187
+building 685 220 719 221
+building 679 218 685 220
+building 748 223 719 221
+building 710 184 718 187
