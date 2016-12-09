@@ -30,7 +30,7 @@ for v in vert:
 #print('')
 #print len(new_edge)
 for e in new_edge:
-    if('-'+e[0] in f):
+    if('-'+e[0]+'-' in f):
         e[-1] = 0
 #    print('{} {} {} {} {} {} {} {}'.format(*e))
 

@@ -1,8 +1,8 @@
--alumni
--bookstorebuilding
--debart
--dpca
--hes
--keenan
--southdininghall
--stanford
+-alumni-
+-bookstorebuilding-
+-debart-
+-dpca-
+-hes-
+-keenan-
+-southdininghall-
+-stanford-
