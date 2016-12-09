@@ -19,7 +19,7 @@ using namespace std;
 /*
 Declarations
 */
-typedef pair<int, int> index;
+typedef pair<int, int> point;
 
 struct Node{
     int ID;
@@ -29,8 +29,8 @@ struct Node{
 
 struct Edge{
     double weight;
-    index start;
-    index end;
+    point start;
+    point end;
 
 };
 
@@ -44,13 +44,13 @@ Main Execution
 */
 int main(int argc, char *argv[]) {
     //variables for graph
-    vector<index> vecNodes;
+    vector<point> vecNodes;
     
     //Variables for start point and end point
     int START_POSX, START_POSY;
     int END_POSX, END_POSY;
     
-    map <index, vector<Edge>> list;
+    map <point, vector<Edge>> list;
 
     /*
     Reading in from a file
@@ -73,7 +73,7 @@ int main(int argc, char *argv[]) {
     int first = -1, second, endX, endY;
     double weight = -1;
     while (ifs >> first >> second) {
-        index start_pair = make_pair(first, second);
+        point start_pair = make_pair(first, second);
         vecNodes.push_back(start_pair);
         weight = -1;
         while (ifs >> weight >> endX >> endY, weight != -1) {
@@ -101,13 +101,13 @@ int main(int argc, char *argv[]) {
         tdis = sqrt(x_dif*x_dif + y_dif*y_dif);
         if (tdis < distance) {
             distance = tdis;
-            idNum = i; // stores for the index creation
+            idNum = i; // stores for the point creation
         }    
     }
 
-    index start(vecNodes[idNum]); // creates a start index
+    point start(vecNodes[idNum]); // creates a start point
 
-    idNum = 0; // resets the idNum for end index
+    idNum = 0; // resets the idNum for end point
     distance = 99999;
 
     for (size_t i = 0; i < vecNodes.size(); i++) {
@@ -116,11 +116,11 @@ int main(int argc, char *argv[]) {
         tdis = sqrt(x_dif*x_dif + y_dif*y_dif);
         if (tdis < distance) {
             distance = tdis;
-            idNum = i; // stores for the index creation
+            idNum = i; // stores for the point creation
         }    
     }
 
-    index end(vecNodes[idNum]); // creates an end index
+    point end(vecNodes[idNum]); // creates an end point
     
     /*
     Dijkstras 
@@ -128,7 +128,7 @@ int main(int argc, char *argv[]) {
 
     priority_queue<Edge, vector<Edge>, decltype(comp)> frontier(comp);
 
-    map<index, index> marked;
+    map<point, point> marked;
    
     frontier.push(Edge{0, end, end});
     bool found = false;
